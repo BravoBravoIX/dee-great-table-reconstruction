@@ -13,6 +13,10 @@ proof, it says "the evidence weighs toward".
 
 October 2026. CPU only; the whole analysis reruns in a few minutes.
 
+**The paper:** [`paper/great-table.pdf`](paper/great-table.pdf) (working paper, 5 pages: abstract,
+method, results, discussion and references; built from `paper/great-table.typ` by
+`paper/build.sh`). The README below covers the same ground in more detail.
+
 ## In short
 
 | Question | Answer | How firm |

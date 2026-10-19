@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "A computational reconstruction of John Dee's Great Table (1584 and 1587)"
+authors:
+  - family-names: Burford
+    given-names: Brett
+version: "1.0"
+doi: 10.5281/zenodo.23470963
+date-released: 2026-10-19
+repository-code: "https://github.com/BravoBravoIX/dee-great-table-reconstruction"

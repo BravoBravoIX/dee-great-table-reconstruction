@@ -1,0 +1,27 @@
+cell,C1,S1,S2,C2,RO,RR,AR,chosen_1584,margin,sweep_wins
+ORO.0.7,u,y,y,y,u,y,y,u,0.0,y:858 u:438
+ORO.3.5,x,z,z,z,x,z,z,x,6.0,x:1295 z:1
+ORO.7.0,c,t,t,t,c,t,t,c,4.0,c:1272 t:24
+ORO.7.10,z,s,s,s,z,s,s,z,4.0,z:1272 s:24
+ORO.10.10,a,n,n,n,a,n,n,a,6.0,a:1295 n:1
+MOR.7.0,R,o,o,o,R,O,o,r,6.0,r:1295 o:1
+MOR.7.1,O,c,c,c,O,c,C,o,4.0,o:1272 c:24
+MOR.7.2,c,a,a,a,c,a,a,c,3.0,c:1272 a:24
+MOR.7.3,a,n,n,n,a,n,n,a,3.0,a:1272 n:24
+MOR.7.4,n,c,c,c,n,c,c,n,1.5,n:666 m:531 c:99
+MOR.7.5,c,h,h,h,c,h,h,c,3.0,c:1269 h:27
+MOR.7.6,h,i,i,i,h,i,i,h,3.0,h:1269 i:27
+MOR.7.7,i,a,a,a,i,a,a,i,4.0,i:1275 a:21
+MOR.7.8,a,s,s,s,a,s,s,a,4.0,a:1275 s:21
+MOR.7.9,s,o,o,o,s,o,o,s,4.0,s:1275 o:21
+MOR.7.10,o,m,m,m,o,m,m,o,4.0,o:1278 m:18
+MOR.7.11,m,t,t,t,m,t,t,m,4.0,m:1278 t:18
+MOR.9.11,L,P,P,p,L,P,P,l,4.0,l:1272 p:24
+OIP.2.6,O,v,V,v,O,V,V,o,4.0,o:1272 u:24
+OIP.7.0,p,p,p,x,p,x,p,p,5.5,p:1296
+OIP.9.2,l,l/b,b,l,l,l,l,l,5.0,l:1296
+OIP.11.3,P,p,p,x,p,x,p,p,5.5,p:1296
+OIP.11.8,a,z,a,a,a,a,a,a,5.5,a:1296
+MPH.8.5,a,n,n,n,a,n,n,a,4.0,a:1272 n:24
+MPH.10.5,x,z,z,z,x,z,z,x,2.0,x:1116 z:180
+MPH.11.11,i,p,i,i,i,i,i,i,5.5,i:1296

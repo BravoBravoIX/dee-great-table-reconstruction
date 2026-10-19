@@ -32,4 +32,5 @@ python3 cipher_cells.py ../results/cipher_cells.json
 python3 cipher_slips.py
 nice -n 19 $UVR --with ortools python run_model.py
 nice -n 19 $UVR --with ortools python controls.py
+python3 disputed_table.py
 echo "done. Compare with the published results: git diff --stat results/"

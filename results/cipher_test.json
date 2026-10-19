@@ -1,0 +1,1751 @@
+[
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"ORO",
+"MPH",
+"MOR",
+"OIP"
+],
+"exact": 105,
+"near": 190,
+"null_near_mean": 26.6085,
+"null_near_max": 48,
+"p_near": 9.999000099990002e-05
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"ORO",
+"MPH",
+"MOR",
+"OIP"
+],
+"exact": 104,
+"near": 189,
+"null_near_mean": 26.5574,
+"null_near_max": 47,
+"p_near": 9.999000099990002e-05
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"ORO",
+"MPH",
+"MOR",
+"OIP"
+],
+"exact": 103,
+"near": 187,
+"null_near_mean": 26.4978,
+"null_near_max": 47,
+"p_near": 9.999000099990002e-05
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"ORO",
+"OIP",
+"MOR",
+"MPH"
+],
+"exact": 62,
+"near": 119,
+"null_near_mean": 24.8638,
+"null_near_max": 44,
+"p_near": 9.999000099990002e-05
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"ORO",
+"OIP",
+"MOR",
+"MPH"
+],
+"exact": 62,
+"near": 119,
+"null_near_mean": 24.822,
+"null_near_max": 44,
+"p_near": 9.999000099990002e-05
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"ORO",
+"MPH",
+"OIP",
+"MOR"
+],
+"exact": 58,
+"near": 117,
+"null_near_mean": 24.8898,
+"null_near_max": 43,
+"p_near": 9.999000099990002e-05
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"ORO",
+"MPH",
+"OIP",
+"MOR"
+],
+"exact": 58,
+"near": 117
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"ORO",
+"OIP",
+"MOR",
+"MPH"
+],
+"exact": 60,
+"near": 116
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"ORO",
+"MPH",
+"OIP",
+"MOR"
+],
+"exact": 58,
+"near": 116
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"ORO",
+"MOR",
+"MPH",
+"OIP"
+],
+"exact": 60,
+"near": 113
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"ORO",
+"MOR",
+"MPH",
+"OIP"
+],
+"exact": 61,
+"near": 112
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"ORO",
+"MOR",
+"MPH",
+"OIP"
+],
+"exact": 59,
+"near": 112
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"OIP",
+"MPH",
+"MOR",
+"ORO"
+],
+"exact": 58,
+"near": 101
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"OIP",
+"MPH",
+"MOR",
+"ORO"
+],
+"exact": 58,
+"near": 101
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"OIP",
+"MPH",
+"MOR",
+"ORO"
+],
+"exact": 56,
+"near": 99
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"MOR",
+"MPH",
+"ORO",
+"OIP"
+],
+"exact": 57,
+"near": 96
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"MOR",
+"MPH",
+"ORO",
+"OIP"
+],
+"exact": 57,
+"near": 96
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"MOR",
+"MPH",
+"ORO",
+"OIP"
+],
+"exact": 56,
+"near": 95
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"MPH",
+"ORO",
+"MOR",
+"OIP"
+],
+"exact": 55,
+"near": 93
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"MPH",
+"ORO",
+"MOR",
+"OIP"
+],
+"exact": 54,
+"near": 92
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"MPH",
+"ORO",
+"MOR",
+"OIP"
+],
+"exact": 53,
+"near": 91
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"ORO",
+"MOR",
+"OIP",
+"MPH"
+],
+"exact": 40,
+"near": 81
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"ORO",
+"MOR",
+"OIP",
+"MPH"
+],
+"exact": 40,
+"near": 81
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"ORO",
+"MOR",
+"OIP",
+"MPH"
+],
+"exact": 41,
+"near": 80,
+"null_near_mean": 23.6846,
+"null_near_max": 42,
+"p_near": 9.999000099990002e-05
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"ORO",
+"OIP",
+"MPH",
+"MOR"
+],
+"exact": 35,
+"near": 77
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"ORO",
+"OIP",
+"MPH",
+"MOR"
+],
+"exact": 35,
+"near": 77
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"ORO",
+"OIP",
+"MPH",
+"MOR"
+],
+"exact": 35,
+"near": 76
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"OIP",
+"ORO",
+"MOR",
+"MPH"
+],
+"exact": 38,
+"near": 65
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"OIP",
+"ORO",
+"MOR",
+"MPH"
+],
+"exact": 38,
+"near": 65
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"OIP",
+"ORO",
+"MOR",
+"MPH"
+],
+"exact": 36,
+"near": 63
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"MOR",
+"MPH",
+"OIP",
+"ORO"
+],
+"exact": 33,
+"near": 62
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"MOR",
+"MPH",
+"OIP",
+"ORO"
+],
+"exact": 33,
+"near": 62
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"MOR",
+"MPH",
+"OIP",
+"ORO"
+],
+"exact": 33,
+"near": 62
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"OIP",
+"MPH",
+"ORO",
+"MOR"
+],
+"exact": 35,
+"near": 61
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"OIP",
+"MPH",
+"ORO",
+"MOR"
+],
+"exact": 35,
+"near": 61
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"OIP",
+"MPH",
+"ORO",
+"MOR"
+],
+"exact": 35,
+"near": 61
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"MPH",
+"OIP",
+"MOR",
+"ORO"
+],
+"exact": 32,
+"near": 60
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"MPH",
+"OIP",
+"MOR",
+"ORO"
+],
+"exact": 32,
+"near": 60
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"MPH",
+"OIP",
+"MOR",
+"ORO"
+],
+"exact": 30,
+"near": 58
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"MOR",
+"ORO",
+"MPH",
+"OIP"
+],
+"exact": 33,
+"near": 57
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"MOR",
+"ORO",
+"MPH",
+"OIP"
+],
+"exact": 33,
+"near": 57
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"MPH",
+"MOR",
+"ORO",
+"OIP"
+],
+"exact": 35,
+"near": 56
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"MPH",
+"MOR",
+"ORO",
+"OIP"
+],
+"exact": 34,
+"near": 56
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"MOR",
+"ORO",
+"MPH",
+"OIP"
+],
+"exact": 32,
+"near": 56
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"MPH",
+"MOR",
+"ORO",
+"OIP"
+],
+"exact": 33,
+"near": 55
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"ORO",
+"MPH",
+"MOR",
+"OIP"
+],
+"exact": 23,
+"near": 36
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"ORO",
+"MPH",
+"MOR",
+"OIP"
+],
+"exact": 23,
+"near": 35
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"ORO",
+"MPH",
+"MOR",
+"OIP"
+],
+"exact": 23,
+"near": 35
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"MOR",
+"MPH",
+"ORO",
+"OIP"
+],
+"exact": 23,
+"near": 34
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"MOR",
+"MPH",
+"ORO",
+"OIP"
+],
+"exact": 23,
+"near": 34
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"MOR",
+"MPH",
+"ORO",
+"OIP"
+],
+"exact": 23,
+"near": 34
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"MOR",
+"MPH",
+"OIP",
+"ORO"
+],
+"exact": 21,
+"near": 33
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"MOR",
+"MPH",
+"OIP",
+"ORO"
+],
+"exact": 21,
+"near": 33
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"ORO",
+"MOR",
+"MPH",
+"OIP"
+],
+"exact": 23,
+"near": 32
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"ORO",
+"MOR",
+"MPH",
+"OIP"
+],
+"exact": 23,
+"near": 32
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"MOR",
+"ORO",
+"MPH",
+"OIP"
+],
+"exact": 23,
+"near": 31
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"MOR",
+"MPH",
+"OIP",
+"ORO"
+],
+"exact": 19,
+"near": 31
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"ORO",
+"MOR",
+"OIP",
+"MPH"
+],
+"exact": 19,
+"near": 31
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"ORO",
+"MPH",
+"OIP",
+"MOR"
+],
+"exact": 18,
+"near": 31
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"MOR",
+"ORO",
+"MPH",
+"OIP"
+],
+"exact": 23,
+"near": 31
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"ORO",
+"MOR",
+"OIP",
+"MPH"
+],
+"exact": 19,
+"near": 31
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"ORO",
+"MPH",
+"OIP",
+"MOR"
+],
+"exact": 18,
+"near": 31
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"MOR",
+"ORO",
+"MPH",
+"OIP"
+],
+"exact": 23,
+"near": 31
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"MOR",
+"ORO",
+"OIP",
+"MPH"
+],
+"exact": 19,
+"near": 30
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"MOR",
+"ORO",
+"OIP",
+"MPH"
+],
+"exact": 19,
+"near": 30
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"ORO",
+"MOR",
+"MPH",
+"OIP"
+],
+"exact": 22,
+"near": 29
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"ORO",
+"MPH",
+"OIP",
+"MOR"
+],
+"exact": 16,
+"near": 29
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"MPH",
+"ORO",
+"MOR",
+"OIP"
+],
+"exact": 16,
+"near": 29
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"OIP",
+"MPH",
+"MOR",
+"ORO"
+],
+"exact": 17,
+"near": 29
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"OIP",
+"MPH",
+"MOR",
+"ORO"
+],
+"exact": 17,
+"near": 29
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"MOR",
+"ORO",
+"OIP",
+"MPH"
+],
+"exact": 17,
+"near": 28
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"OIP",
+"MPH",
+"MOR",
+"ORO"
+],
+"exact": 17,
+"near": 28
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"MPH",
+"ORO",
+"MOR",
+"OIP"
+],
+"exact": 16,
+"near": 28
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"MPH",
+"MOR",
+"ORO",
+"OIP"
+],
+"exact": 16,
+"near": 28
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"MPH",
+"ORO",
+"MOR",
+"OIP"
+],
+"exact": 16,
+"near": 28
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"MPH",
+"MOR",
+"ORO",
+"OIP"
+],
+"exact": 16,
+"near": 28
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"ORO",
+"OIP",
+"MOR",
+"MPH"
+],
+"exact": 16,
+"near": 27
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"OIP",
+"MOR",
+"ORO",
+"MPH"
+],
+"exact": 18,
+"near": 27
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"OIP",
+"MOR",
+"ORO",
+"MPH"
+],
+"exact": 17,
+"near": 27
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"MPH",
+"MOR",
+"OIP",
+"ORO"
+],
+"exact": 14,
+"near": 27
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"OIP",
+"MOR",
+"ORO",
+"MPH"
+],
+"exact": 17,
+"near": 27
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"MPH",
+"MOR",
+"OIP",
+"ORO"
+],
+"exact": 14,
+"near": 27
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"ORO",
+"MOR",
+"OIP",
+"MPH"
+],
+"exact": 16,
+"near": 26
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"ORO",
+"OIP",
+"MOR",
+"MPH"
+],
+"exact": 16,
+"near": 26
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"OIP",
+"ORO",
+"MOR",
+"MPH"
+],
+"exact": 15,
+"near": 26
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"OIP",
+"MOR",
+"ORO",
+"MPH"
+],
+"exact": 15,
+"near": 26
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"OIP",
+"MOR",
+"MPH",
+"ORO"
+],
+"exact": 17,
+"near": 26
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"OIP",
+"MPH",
+"ORO",
+"MOR"
+],
+"exact": 14,
+"near": 26
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"ORO",
+"OIP",
+"MOR",
+"MPH"
+],
+"exact": 16,
+"near": 26
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"OIP",
+"ORO",
+"MOR",
+"MPH"
+],
+"exact": 15,
+"near": 26
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"OIP",
+"MOR",
+"ORO",
+"MPH"
+],
+"exact": 15,
+"near": 26
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"OIP",
+"MOR",
+"MPH",
+"ORO"
+],
+"exact": 17,
+"near": 26
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"OIP",
+"MPH",
+"ORO",
+"MOR"
+],
+"exact": 14,
+"near": 26
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"MOR",
+"ORO",
+"OIP",
+"MPH"
+],
+"exact": 13,
+"near": 25
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"MOR",
+"OIP",
+"ORO",
+"MPH"
+],
+"exact": 16,
+"near": 25
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"MOR",
+"OIP",
+"MPH",
+"ORO"
+],
+"exact": 18,
+"near": 25
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"OIP",
+"ORO",
+"MOR",
+"MPH"
+],
+"exact": 15,
+"near": 25
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"OIP",
+"MOR",
+"MPH",
+"ORO"
+],
+"exact": 14,
+"near": 25
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"MPH",
+"MOR",
+"ORO",
+"OIP"
+],
+"exact": 15,
+"near": 25
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"MOR",
+"ORO",
+"OIP",
+"MPH"
+],
+"exact": 13,
+"near": 25
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"MOR",
+"OIP",
+"ORO",
+"MPH"
+],
+"exact": 16,
+"near": 25
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"MOR",
+"OIP",
+"ORO",
+"MPH"
+],
+"exact": 14,
+"near": 25
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"MOR",
+"OIP",
+"MPH",
+"ORO"
+],
+"exact": 18,
+"near": 25
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"OIP",
+"MOR",
+"MPH",
+"ORO"
+],
+"exact": 13,
+"near": 25
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"MOR",
+"ORO",
+"OIP",
+"MPH"
+],
+"exact": 13,
+"near": 25
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"MOR",
+"OIP",
+"ORO",
+"MPH"
+],
+"exact": 16,
+"near": 25
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"MOR",
+"OIP",
+"ORO",
+"MPH"
+],
+"exact": 14,
+"near": 25
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"MOR",
+"OIP",
+"MPH",
+"ORO"
+],
+"exact": 18,
+"near": 25
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"OIP",
+"MOR",
+"MPH",
+"ORO"
+],
+"exact": 13,
+"near": 25
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"OIP",
+"MPH",
+"ORO",
+"MOR"
+],
+"exact": 14,
+"near": 24
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"MPH",
+"ORO",
+"OIP",
+"MOR"
+],
+"exact": 11,
+"near": 24
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"MPH",
+"ORO",
+"OIP",
+"MOR"
+],
+"exact": 11,
+"near": 24
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"ORO",
+"OIP",
+"MPH",
+"MOR"
+],
+"exact": 15,
+"near": 23
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"MOR",
+"OIP",
+"ORO",
+"MPH"
+],
+"exact": 14,
+"near": 23
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"OIP",
+"ORO",
+"MPH",
+"MOR"
+],
+"exact": 11,
+"near": 23
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"MPH",
+"OIP",
+"MOR",
+"ORO"
+],
+"exact": 11,
+"near": 23
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"ORO",
+"OIP",
+"MPH",
+"MOR"
+],
+"exact": 15,
+"near": 23
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"MOR",
+"OIP",
+"MPH",
+"ORO"
+],
+"exact": 10,
+"near": 23
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"OIP",
+"ORO",
+"MPH",
+"MOR"
+],
+"exact": 14,
+"near": 23
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"OIP",
+"ORO",
+"MPH",
+"MOR"
+],
+"exact": 11,
+"near": 23
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"ORO",
+"OIP",
+"MPH",
+"MOR"
+],
+"exact": 15,
+"near": 23
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"MOR",
+"OIP",
+"MPH",
+"ORO"
+],
+"exact": 10,
+"near": 23
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"OIP",
+"ORO",
+"MPH",
+"MOR"
+],
+"exact": 14,
+"near": 23
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"OIP",
+"ORO",
+"MPH",
+"MOR"
+],
+"exact": 11,
+"near": 23
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"MPH",
+"ORO",
+"OIP",
+"MOR"
+],
+"exact": 9,
+"near": 22
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"MPH",
+"MOR",
+"OIP",
+"ORO"
+],
+"exact": 11,
+"near": 22
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"MPH",
+"MOR",
+"OIP",
+"ORO"
+],
+"exact": 11,
+"near": 22
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"MPH",
+"MOR",
+"OIP",
+"ORO"
+],
+"exact": 10,
+"near": 22
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"MPH",
+"OIP",
+"MOR",
+"ORO"
+],
+"exact": 11,
+"near": 22
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"MPH",
+"MOR",
+"OIP",
+"ORO"
+],
+"exact": 10,
+"near": 22
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"MPH",
+"OIP",
+"MOR",
+"ORO"
+],
+"exact": 11,
+"near": 22
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"MOR",
+"OIP",
+"MPH",
+"ORO"
+],
+"exact": 10,
+"near": 21
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"OIP",
+"ORO",
+"MPH",
+"MOR"
+],
+"exact": 14,
+"near": 21
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"OIP",
+"MOR",
+"ORO",
+"MPH"
+],
+"exact": 14,
+"near": 21
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"OIP",
+"MOR",
+"MPH",
+"ORO"
+],
+"exact": 16,
+"near": 21
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"MPH",
+"ORO",
+"OIP",
+"MOR"
+],
+"exact": 8,
+"near": 20
+},
+{
+"witness": "C1",
+"kind": "rowwise",
+"order": [
+"MPH",
+"OIP",
+"ORO",
+"MOR"
+],
+"exact": 9,
+"near": 20
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"MPH",
+"ORO",
+"OIP",
+"MOR"
+],
+"exact": 8,
+"near": 20
+},
+{
+"witness": "S2",
+"kind": "rowwise",
+"order": [
+"MPH",
+"OIP",
+"ORO",
+"MOR"
+],
+"exact": 9,
+"near": 20
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"MPH",
+"ORO",
+"OIP",
+"MOR"
+],
+"exact": 8,
+"near": 20
+},
+{
+"witness": "C2",
+"kind": "rowwise",
+"order": [
+"MPH",
+"OIP",
+"ORO",
+"MOR"
+],
+"exact": 9,
+"near": 20
+},
+{
+"witness": "C1",
+"kind": "tablewise",
+"order": [
+"MPH",
+"OIP",
+"ORO",
+"MOR"
+],
+"exact": 8,
+"near": 19
+},
+{
+"witness": "S2",
+"kind": "tablewise",
+"order": [
+"MPH",
+"OIP",
+"ORO",
+"MOR"
+],
+"exact": 8,
+"near": 19
+},
+{
+"witness": "C2",
+"kind": "tablewise",
+"order": [
+"MPH",
+"OIP",
+"ORO",
+"MOR"
+],
+"exact": 8,
+"near": 19
+}
+]

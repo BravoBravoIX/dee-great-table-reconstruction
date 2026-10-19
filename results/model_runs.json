@@ -1,0 +1,3494 @@
+{
+ "run": {
+  "python": "3.12.3",
+  "seed": 20261019,
+  "commit": "d2efe78ac5de80aded6b313abbf8c0d0ea2368d3",
+  "elapsed_s": 28.2
+ },
+ "interesting_cells": [
+  "MOR.10.4",
+  "MOR.2.7",
+  "MOR.7.0",
+  "MOR.7.1",
+  "MOR.7.10",
+  "MOR.7.11",
+  "MOR.7.2",
+  "MOR.7.3",
+  "MOR.7.4",
+  "MOR.7.5",
+  "MOR.7.6",
+  "MOR.7.7",
+  "MOR.7.8",
+  "MOR.7.9",
+  "MOR.9.11",
+  "MOR.9.5",
+  "MPH.1.0",
+  "MPH.1.2",
+  "MPH.10.5",
+  "MPH.11.11",
+  "MPH.2.1",
+  "MPH.2.6",
+  "MPH.2.7",
+  "MPH.2.8",
+  "MPH.3.8",
+  "MPH.4.0",
+  "MPH.4.5",
+  "MPH.4.6",
+  "MPH.5.4",
+  "MPH.6.10",
+  "MPH.6.11",
+  "MPH.8.5",
+  "OIP.0.11",
+  "OIP.1.10",
+  "OIP.1.11",
+  "OIP.11.3",
+  "OIP.11.8",
+  "OIP.2.6",
+  "OIP.3.1",
+  "OIP.4.4",
+  "OIP.7.0",
+  "OIP.9.2",
+  "ORO.0.7",
+  "ORO.10.10",
+  "ORO.3.5",
+  "ORO.4.6",
+  "ORO.6.9",
+  "ORO.7.0",
+  "ORO.7.10",
+  "ORO.7.4"
+ ],
+ "default_1584": {
+  "weights": {
+   "ms84": 3,
+   "ms87": 0.5,
+   "s1": 0.5,
+   "gov_letter": 1,
+   "gov_name": 1,
+   "spoken": 2,
+   "inv": 0.5,
+   "cipher": 0
+  },
+  "cost": 77.0,
+  "optimal": true,
+  "garbled_governors": [
+   6,
+   8,
+   10,
+   11,
+   19,
+   40,
+   43,
+   50,
+   56,
+   61,
+   67,
+   70,
+   78,
+   83,
+   88,
+   91
+  ],
+  "changed_vs_C1": {
+   "OIP.0.11": [
+    "_",
+    "a"
+   ],
+   "OIP.1.10": [
+    "_",
+    "u"
+   ],
+   "OIP.1.11": [
+    "_",
+    "a"
+   ]
+  },
+  "changed_vs_S2": {
+   "ORO.0.7": [
+    "y",
+    "u"
+   ],
+   "ORO.3.5": [
+    "z",
+    "x"
+   ],
+   "ORO.7.0": [
+    "t",
+    "c"
+   ],
+   "ORO.7.10": [
+    "s",
+    "z"
+   ],
+   "ORO.10.10": [
+    "n",
+    "a"
+   ],
+   "MOR.7.0": [
+    "o",
+    "r"
+   ],
+   "MOR.7.1": [
+    "c",
+    "o"
+   ],
+   "MOR.7.2": [
+    "a",
+    "c"
+   ],
+   "MOR.7.3": [
+    "n",
+    "a"
+   ],
+   "MOR.7.4": [
+    "c",
+    "n"
+   ],
+   "MOR.7.5": [
+    "h",
+    "c"
+   ],
+   "MOR.7.6": [
+    "i",
+    "h"
+   ],
+   "MOR.7.7": [
+    "a",
+    "i"
+   ],
+   "MOR.7.8": [
+    "s",
+    "a"
+   ],
+   "MOR.7.9": [
+    "o",
+    "s"
+   ],
+   "MOR.7.10": [
+    "m",
+    "o"
+   ],
+   "MOR.7.11": [
+    "t",
+    "m"
+   ],
+   "MOR.9.11": [
+    "p",
+    "l"
+   ],
+   "OIP.2.6": [
+    "u",
+    "o"
+   ],
+   "OIP.9.2": [
+    "b",
+    "l"
+   ],
+   "MPH.8.5": [
+    "n",
+    "a"
+   ],
+   "MPH.10.5": [
+    "z",
+    "x"
+   ]
+  },
+  "names": {
+   "3": [
+    "Valgars",
+    "ualgars"
+   ],
+   "6": [
+    "Dialiva",
+    "dialoia"
+   ],
+   "8": [
+    "Virochi",
+    "uirooli"
+   ],
+   "10": [
+    "Thotanf",
+    "thotanp"
+   ],
+   "11": [
+    "Axziarg",
+    "axxiarg"
+   ],
+   "17": [
+    "Vavaamp",
+    "uauaamp"
+   ],
+   "19": [
+    "Obmacas",
+    "opmacas"
+   ],
+   "32": [
+    "Vsnarda",
+    "usnarda"
+   ],
+   "40": [
+    "Tedoand",
+    "tedoond"
+   ],
+   "41": [
+    "Viuipos",
+    "uiuipos"
+   ],
+   "43": [
+    "Tahando",
+    "tahamdo"
+   ],
+   "50": [
+    "Aydropt",
+    "audropt"
+   ],
+   "56": [
+    "Abaiond",
+    "abriond"
+   ],
+   "61": [
+    "Chirspa",
+    "chirzpa"
+   ],
+   "63": [
+    "Vixpalg",
+    "uixpalg"
+   ],
+   "67": [
+    "Ronoamb",
+    "ronoomb"
+   ],
+   "70": [
+    "Orcamir",
+    "orcanir"
+   ],
+   "74": [
+    "Obvaors",
+    "obuaors"
+   ],
+   "78": [
+    "Bazchim",
+    "lazchim"
+   ],
+   "83": [
+    "Focisni",
+    "pocisni"
+   ],
+   "85": [
+    "Vastrim",
+    "uastrim"
+   ],
+   "88": [
+    "Taoagla",
+    "taaogba"
+   ],
+   "90": [
+    "Advorpt",
+    "aduorpt"
+   ],
+   "91": [
+    "Dozinal",
+    "doxmael"
+   ]
+  },
+  "table": {
+   "ORO.0.0": "r",
+   "ORO.0.1": "z",
+   "ORO.0.2": "i",
+   "ORO.0.3": "l",
+   "ORO.0.4": "a",
+   "ORO.0.5": "f",
+   "ORO.0.6": "a",
+   "ORO.0.7": "u",
+   "ORO.0.8": "t",
+   "ORO.0.9": "l",
+   "ORO.0.10": "p",
+   "ORO.0.11": "a",
+   "ORO.1.0": "a",
+   "ORO.1.1": "r",
+   "ORO.1.2": "d",
+   "ORO.1.3": "z",
+   "ORO.1.4": "a",
+   "ORO.1.5": "i",
+   "ORO.1.6": "d",
+   "ORO.1.7": "p",
+   "ORO.1.8": "a",
+   "ORO.1.9": "l",
+   "ORO.1.10": "a",
+   "ORO.1.11": "m",
+   "ORO.2.0": "c",
+   "ORO.2.1": "z",
+   "ORO.2.2": "o",
+   "ORO.2.3": "n",
+   "ORO.2.4": "s",
+   "ORO.2.5": "a",
+   "ORO.2.6": "r",
+   "ORO.2.7": "o",
+   "ORO.2.8": "y",
+   "ORO.2.9": "a",
+   "ORO.2.10": "u",
+   "ORO.2.11": "b",
+   "ORO.3.0": "t",
+   "ORO.3.1": "o",
+   "ORO.3.2": "i",
+   "ORO.3.3": "t",
+   "ORO.3.4": "t",
+   "ORO.3.5": "x",
+   "ORO.3.6": "o",
+   "ORO.3.7": "p",
+   "ORO.3.8": "a",
+   "ORO.3.9": "c",
+   "ORO.3.10": "o",
+   "ORO.3.11": "c",
+   "ORO.4.0": "s",
+   "ORO.4.1": "i",
+   "ORO.4.2": "g",
+   "ORO.4.3": "a",
+   "ORO.4.4": "s",
+   "ORO.4.5": "o",
+   "ORO.4.6": "m",
+   "ORO.4.7": "r",
+   "ORO.4.8": "b",
+   "ORO.4.9": "z",
+   "ORO.4.10": "n",
+   "ORO.4.11": "h",
+   "ORO.5.0": "f",
+   "ORO.5.1": "m",
+   "ORO.5.2": "o",
+   "ORO.5.3": "n",
+   "ORO.5.4": "d",
+   "ORO.5.5": "a",
+   "ORO.5.6": "t",
+   "ORO.5.7": "d",
+   "ORO.5.8": "i",
+   "ORO.5.9": "a",
+   "ORO.5.10": "r",
+   "ORO.5.11": "i",
+   "ORO.6.0": "o",
+   "ORO.6.1": "r",
+   "ORO.6.2": "o",
+   "ORO.6.3": "i",
+   "ORO.6.4": "b",
+   "ORO.6.5": "a",
+   "ORO.6.6": "h",
+   "ORO.6.7": "a",
+   "ORO.6.8": "o",
+   "ORO.6.9": "z",
+   "ORO.6.10": "p",
+   "ORO.6.11": "i",
+   "ORO.7.0": "c",
+   "ORO.7.1": "n",
+   "ORO.7.2": "a",
+   "ORO.7.3": "b",
+   "ORO.7.4": "r",
+   "ORO.7.5": "u",
+   "ORO.7.6": "i",
+   "ORO.7.7": "x",
+   "ORO.7.8": "g",
+   "ORO.7.9": "a",
+   "ORO.7.10": "z",
+   "ORO.7.11": "d",
+   "ORO.8.0": "o",
+   "ORO.8.1": "i",
+   "ORO.8.2": "i",
+   "ORO.8.3": "i",
+   "ORO.8.4": "t",
+   "ORO.8.5": "t",
+   "ORO.8.6": "p",
+   "ORO.8.7": "a",
+   "ORO.8.8": "l",
+   "ORO.8.9": "o",
+   "ORO.8.10": "a",
+   "ORO.8.11": "i",
+   "ORO.9.0": "a",
+   "ORO.9.1": "b",
+   "ORO.9.2": "a",
+   "ORO.9.3": "m",
+   "ORO.9.4": "o",
+   "ORO.9.5": "o",
+   "ORO.9.6": "o",
+   "ORO.9.7": "a",
+   "ORO.9.8": "c",
+   "ORO.9.9": "u",
+   "ORO.9.10": "c",
+   "ORO.9.11": "a",
+   "ORO.10.0": "n",
+   "ORO.10.1": "a",
+   "ORO.10.2": "o",
+   "ORO.10.3": "c",
+   "ORO.10.4": "o",
+   "ORO.10.5": "t",
+   "ORO.10.6": "t",
+   "ORO.10.7": "n",
+   "ORO.10.8": "p",
+   "ORO.10.9": "r",
+   "ORO.10.10": "a",
+   "ORO.10.11": "t",
+   "ORO.11.0": "o",
+   "ORO.11.1": "c",
+   "ORO.11.2": "a",
+   "ORO.11.3": "n",
+   "ORO.11.4": "m",
+   "ORO.11.5": "a",
+   "ORO.11.6": "g",
+   "ORO.11.7": "o",
+   "ORO.11.8": "t",
+   "ORO.11.9": "r",
+   "ORO.11.10": "o",
+   "ORO.11.11": "i",
+   "ORO.12.0": "s",
+   "ORO.12.1": "h",
+   "ORO.12.2": "i",
+   "ORO.12.3": "a",
+   "ORO.12.4": "l",
+   "ORO.12.5": "r",
+   "ORO.12.6": "a",
+   "ORO.12.7": "p",
+   "ORO.12.8": "m",
+   "ORO.12.9": "z",
+   "ORO.12.10": "o",
+   "ORO.12.11": "x",
+   "MOR.0.0": "b",
+   "MOR.0.1": "o",
+   "MOR.0.2": "a",
+   "MOR.0.3": "z",
+   "MOR.0.4": "a",
+   "MOR.0.5": "r",
+   "MOR.0.6": "o",
+   "MOR.0.7": "p",
+   "MOR.0.8": "h",
+   "MOR.0.9": "a",
+   "MOR.0.10": "r",
+   "MOR.0.11": "a",
+   "MOR.1.0": "u",
+   "MOR.1.1": "n",
+   "MOR.1.2": "n",
+   "MOR.1.3": "a",
+   "MOR.1.4": "x",
+   "MOR.1.5": "o",
+   "MOR.1.6": "p",
+   "MOR.1.7": "s",
+   "MOR.1.8": "o",
+   "MOR.1.9": "n",
+   "MOR.1.10": "d",
+   "MOR.1.11": "n",
+   "MOR.2.0": "a",
+   "MOR.2.1": "i",
+   "MOR.2.2": "g",
+   "MOR.2.3": "r",
+   "MOR.2.4": "a",
+   "MOR.2.5": "n",
+   "MOR.2.6": "o",
+   "MOR.2.7": "o",
+   "MOR.2.8": "m",
+   "MOR.2.9": "a",
+   "MOR.2.10": "g",
+   "MOR.2.11": "g",
+   "MOR.3.0": "o",
+   "MOR.3.1": "r",
+   "MOR.3.2": "p",
+   "MOR.3.3": "m",
+   "MOR.3.4": "n",
+   "MOR.3.5": "i",
+   "MOR.3.6": "n",
+   "MOR.3.7": "g",
+   "MOR.3.8": "b",
+   "MOR.3.9": "e",
+   "MOR.3.10": "a",
+   "MOR.3.11": "l",
+   "MOR.4.0": "r",
+   "MOR.4.1": "s",
+   "MOR.4.2": "o",
+   "MOR.4.3": "n",
+   "MOR.4.4": "i",
+   "MOR.4.5": "z",
+   "MOR.4.6": "i",
+   "MOR.4.7": "r",
+   "MOR.4.8": "l",
+   "MOR.4.9": "e",
+   "MOR.4.10": "m",
+   "MOR.4.11": "u",
+   "MOR.5.0": "i",
+   "MOR.5.1": "z",
+   "MOR.5.2": "i",
+   "MOR.5.3": "n",
+   "MOR.5.4": "r",
+   "MOR.5.5": "c",
+   "MOR.5.6": "z",
+   "MOR.5.7": "i",
+   "MOR.5.8": "a",
+   "MOR.5.9": "m",
+   "MOR.5.10": "h",
+   "MOR.5.11": "l",
+   "MOR.6.0": "m",
+   "MOR.6.1": "o",
+   "MOR.6.2": "r",
+   "MOR.6.3": "d",
+   "MOR.6.4": "i",
+   "MOR.6.5": "a",
+   "MOR.6.6": "l",
+   "MOR.6.7": "h",
+   "MOR.6.8": "c",
+   "MOR.6.9": "t",
+   "MOR.6.10": "g",
+   "MOR.6.11": "a",
+   "MOR.7.0": "r",
+   "MOR.7.1": "o",
+   "MOR.7.2": "c",
+   "MOR.7.3": "a",
+   "MOR.7.4": "n",
+   "MOR.7.5": "c",
+   "MOR.7.6": "h",
+   "MOR.7.7": "i",
+   "MOR.7.8": "a",
+   "MOR.7.9": "s",
+   "MOR.7.10": "o",
+   "MOR.7.11": "m",
+   "MOR.8.0": "a",
+   "MOR.8.1": "r",
+   "MOR.8.2": "b",
+   "MOR.8.3": "i",
+   "MOR.8.4": "z",
+   "MOR.8.5": "m",
+   "MOR.8.6": "i",
+   "MOR.8.7": "i",
+   "MOR.8.8": "l",
+   "MOR.8.9": "p",
+   "MOR.8.10": "i",
+   "MOR.8.11": "z",
+   "MOR.9.0": "o",
+   "MOR.9.1": "p",
+   "MOR.9.2": "a",
+   "MOR.9.3": "n",
+   "MOR.9.4": "a",
+   "MOR.9.5": "l",
+   "MOR.9.6": "a",
+   "MOR.9.7": "m",
+   "MOR.9.8": "s",
+   "MOR.9.9": "m",
+   "MOR.9.10": "a",
+   "MOR.9.11": "l",
+   "MOR.10.0": "d",
+   "MOR.10.1": "o",
+   "MOR.10.2": "l",
+   "MOR.10.3": "o",
+   "MOR.10.4": "p",
+   "MOR.10.5": "i",
+   "MOR.10.6": "n",
+   "MOR.10.7": "i",
+   "MOR.10.8": "a",
+   "MOR.10.9": "n",
+   "MOR.10.10": "b",
+   "MOR.10.11": "a",
+   "MOR.11.0": "r",
+   "MOR.11.1": "x",
+   "MOR.11.2": "p",
+   "MOR.11.3": "a",
+   "MOR.11.4": "o",
+   "MOR.11.5": "c",
+   "MOR.11.6": "s",
+   "MOR.11.7": "i",
+   "MOR.11.8": "z",
+   "MOR.11.9": "i",
+   "MOR.11.10": "x",
+   "MOR.11.11": "p",
+   "MOR.12.0": "a",
+   "MOR.12.1": "x",
+   "MOR.12.2": "t",
+   "MOR.12.3": "i",
+   "MOR.12.4": "r",
+   "MOR.12.5": "u",
+   "MOR.12.6": "a",
+   "MOR.12.7": "s",
+   "MOR.12.8": "t",
+   "MOR.12.9": "r",
+   "MOR.12.10": "i",
+   "MOR.12.11": "m",
+   "OIP.0.0": "d",
+   "OIP.0.1": "o",
+   "OIP.0.2": "n",
+   "OIP.0.3": "p",
+   "OIP.0.4": "a",
+   "OIP.0.5": "t",
+   "OIP.0.6": "d",
+   "OIP.0.7": "a",
+   "OIP.0.8": "n",
+   "OIP.0.9": "u",
+   "OIP.0.10": "a",
+   "OIP.0.11": "a",
+   "OIP.1.0": "o",
+   "OIP.1.1": "l",
+   "OIP.1.2": "o",
+   "OIP.1.3": "a",
+   "OIP.1.4": "g",
+   "OIP.1.5": "e",
+   "OIP.1.6": "o",
+   "OIP.1.7": "o",
+   "OIP.1.8": "b",
+   "OIP.1.9": "a",
+   "OIP.1.10": "u",
+   "OIP.1.11": "a",
+   "OIP.2.0": "o",
+   "OIP.2.1": "p",
+   "OIP.2.2": "a",
+   "OIP.2.3": "m",
+   "OIP.2.4": "n",
+   "OIP.2.5": "o",
+   "OIP.2.6": "o",
+   "OIP.2.7": "g",
+   "OIP.2.8": "m",
+   "OIP.2.9": "d",
+   "OIP.2.10": "n",
+   "OIP.2.11": "m",
+   "OIP.3.0": "a",
+   "OIP.3.1": "p",
+   "OIP.3.2": "l",
+   "OIP.3.3": "s",
+   "OIP.3.4": "t",
+   "OIP.3.5": "e",
+   "OIP.3.6": "d",
+   "OIP.3.7": "e",
+   "OIP.3.8": "c",
+   "OIP.3.9": "a",
+   "OIP.3.10": "o",
+   "OIP.3.11": "p",
+   "OIP.4.0": "s",
+   "OIP.4.1": "c",
+   "OIP.4.2": "m",
+   "OIP.4.3": "i",
+   "OIP.4.4": "o",
+   "OIP.4.5": "o",
+   "OIP.4.6": "n",
+   "OIP.4.7": "a",
+   "OIP.4.8": "m",
+   "OIP.4.9": "l",
+   "OIP.4.10": "o",
+   "OIP.4.11": "x",
+   "OIP.5.0": "u",
+   "OIP.5.1": "a",
+   "OIP.5.2": "r",
+   "OIP.5.3": "s",
+   "OIP.5.4": "g",
+   "OIP.5.5": "d",
+   "OIP.5.6": "l",
+   "OIP.5.7": "b",
+   "OIP.5.8": "r",
+   "OIP.5.9": "i",
+   "OIP.5.10": "a",
+   "OIP.5.11": "p",
+   "OIP.6.0": "o",
+   "OIP.6.1": "i",
+   "OIP.6.2": "p",
+   "OIP.6.3": "t",
+   "OIP.6.4": "e",
+   "OIP.6.5": "a",
+   "OIP.6.6": "a",
+   "OIP.6.7": "p",
+   "OIP.6.8": "d",
+   "OIP.6.9": "o",
+   "OIP.6.10": "c",
+   "OIP.6.11": "e",
+   "OIP.7.0": "p",
+   "OIP.7.1": "s",
+   "OIP.7.2": "u",
+   "OIP.7.3": "a",
+   "OIP.7.4": "c",
+   "OIP.7.5": "n",
+   "OIP.7.6": "r",
+   "OIP.7.7": "z",
+   "OIP.7.8": "i",
+   "OIP.7.9": "r",
+   "OIP.7.10": "z",
+   "OIP.7.11": "a",
+   "OIP.8.0": "s",
+   "OIP.8.1": "i",
+   "OIP.8.2": "o",
+   "OIP.8.3": "d",
+   "OIP.8.4": "a",
+   "OIP.8.5": "o",
+   "OIP.8.6": "i",
+   "OIP.8.7": "n",
+   "OIP.8.8": "r",
+   "OIP.8.9": "z",
+   "OIP.8.10": "f",
+   "OIP.8.11": "m",
+   "OIP.9.0": "d",
+   "OIP.9.1": "a",
+   "OIP.9.2": "l",
+   "OIP.9.3": "t",
+   "OIP.9.4": "t",
+   "OIP.9.5": "d",
+   "OIP.9.6": "n",
+   "OIP.9.7": "a",
+   "OIP.9.8": "d",
+   "OIP.9.9": "i",
+   "OIP.9.10": "r",
+   "OIP.9.11": "e",
+   "OIP.10.0": "d",
+   "OIP.10.1": "i",
+   "OIP.10.2": "x",
+   "OIP.10.3": "o",
+   "OIP.10.4": "m",
+   "OIP.10.5": "o",
+   "OIP.10.6": "n",
+   "OIP.10.7": "s",
+   "OIP.10.8": "i",
+   "OIP.10.9": "o",
+   "OIP.10.10": "s",
+   "OIP.10.11": "p",
+   "OIP.11.0": "o",
+   "OIP.11.1": "o",
+   "OIP.11.2": "d",
+   "OIP.11.3": "p",
+   "OIP.11.4": "z",
+   "OIP.11.5": "i",
+   "OIP.11.6": "a",
+   "OIP.11.7": "p",
+   "OIP.11.8": "a",
+   "OIP.11.9": "n",
+   "OIP.11.10": "l",
+   "OIP.11.11": "i",
+   "OIP.12.0": "r",
+   "OIP.12.1": "g",
+   "OIP.12.2": "o",
+   "OIP.12.3": "a",
+   "OIP.12.4": "n",
+   "OIP.12.5": "n",
+   "OIP.12.6": "p",
+   "OIP.12.7": "a",
+   "OIP.12.8": "c",
+   "OIP.12.9": "r",
+   "OIP.12.10": "a",
+   "OIP.12.11": "r",
+   "MPH.0.0": "t",
+   "MPH.0.1": "a",
+   "MPH.0.2": "o",
+   "MPH.0.3": "a",
+   "MPH.0.4": "d",
+   "MPH.0.5": "u",
+   "MPH.0.6": "p",
+   "MPH.0.7": "t",
+   "MPH.0.8": "d",
+   "MPH.0.9": "n",
+   "MPH.0.10": "i",
+   "MPH.0.11": "m",
+   "MPH.1.0": "a",
+   "MPH.1.1": "a",
+   "MPH.1.2": "b",
+   "MPH.1.3": "c",
+   "MPH.1.4": "o",
+   "MPH.1.5": "o",
+   "MPH.1.6": "r",
+   "MPH.1.7": "o",
+   "MPH.1.8": "m",
+   "MPH.1.9": "e",
+   "MPH.1.10": "b",
+   "MPH.1.11": "b",
+   "MPH.2.0": "t",
+   "MPH.2.1": "o",
+   "MPH.2.2": "g",
+   "MPH.2.3": "c",
+   "MPH.2.4": "o",
+   "MPH.2.5": "n",
+   "MPH.2.6": "x",
+   "MPH.2.7": "m",
+   "MPH.2.8": "a",
+   "MPH.2.9": "l",
+   "MPH.2.10": "g",
+   "MPH.2.11": "m",
+   "MPH.3.0": "n",
+   "MPH.3.1": "h",
+   "MPH.3.2": "o",
+   "MPH.3.3": "d",
+   "MPH.3.4": "d",
+   "MPH.3.5": "i",
+   "MPH.3.6": "a",
+   "MPH.3.7": "l",
+   "MPH.3.8": "e",
+   "MPH.3.9": "a",
+   "MPH.3.10": "o",
+   "MPH.3.11": "c",
+   "MPH.4.0": "p",
+   "MPH.4.1": "a",
+   "MPH.4.2": "t",
+   "MPH.4.3": "a",
+   "MPH.4.4": "x",
+   "MPH.4.5": "i",
+   "MPH.4.6": "o",
+   "MPH.4.7": "u",
+   "MPH.4.8": "s",
+   "MPH.4.9": "p",
+   "MPH.4.10": "s",
+   "MPH.4.11": "n",
+   "MPH.5.0": "s",
+   "MPH.5.1": "a",
+   "MPH.5.2": "a",
+   "MPH.5.3": "i",
+   "MPH.5.4": "x",
+   "MPH.5.5": "a",
+   "MPH.5.6": "a",
+   "MPH.5.7": "r",
+   "MPH.5.8": "u",
+   "MPH.5.9": "r",
+   "MPH.5.10": "o",
+   "MPH.5.11": "i",
+   "MPH.6.0": "m",
+   "MPH.6.1": "p",
+   "MPH.6.2": "h",
+   "MPH.6.3": "a",
+   "MPH.6.4": "r",
+   "MPH.6.5": "s",
+   "MPH.6.6": "l",
+   "MPH.6.7": "g",
+   "MPH.6.8": "a",
+   "MPH.6.9": "i",
+   "MPH.6.10": "o",
+   "MPH.6.11": "l",
+   "MPH.7.0": "m",
+   "MPH.7.1": "a",
+   "MPH.7.2": "m",
+   "MPH.7.3": "g",
+   "MPH.7.4": "l",
+   "MPH.7.5": "o",
+   "MPH.7.6": "i",
+   "MPH.7.7": "n",
+   "MPH.7.8": "l",
+   "MPH.7.9": "i",
+   "MPH.7.10": "r",
+   "MPH.7.11": "x",
+   "MPH.8.0": "o",
+   "MPH.8.1": "l",
+   "MPH.8.2": "a",
+   "MPH.8.3": "a",
+   "MPH.8.4": "d",
+   "MPH.8.5": "a",
+   "MPH.8.6": "g",
+   "MPH.8.7": "a",
+   "MPH.8.8": "t",
+   "MPH.8.9": "a",
+   "MPH.8.10": "p",
+   "MPH.8.11": "a",
+   "MPH.9.0": "p",
+   "MPH.9.1": "a",
+   "MPH.9.2": "l",
+   "MPH.9.3": "c",
+   "MPH.9.4": "o",
+   "MPH.9.5": "i",
+   "MPH.9.6": "d",
+   "MPH.9.7": "x",
+   "MPH.9.8": "p",
+   "MPH.9.9": "a",
+   "MPH.9.10": "c",
+   "MPH.9.11": "n",
+   "MPH.10.0": "n",
+   "MPH.10.1": "d",
+   "MPH.10.2": "a",
+   "MPH.10.3": "z",
+   "MPH.10.4": "n",
+   "MPH.10.5": "x",
+   "MPH.10.6": "i",
+   "MPH.10.7": "u",
+   "MPH.10.8": "a",
+   "MPH.10.9": "a",
+   "MPH.10.10": "s",
+   "MPH.10.11": "a",
+   "MPH.11.0": "i",
+   "MPH.11.1": "i",
+   "MPH.11.2": "d",
+   "MPH.11.3": "p",
+   "MPH.11.4": "o",
+   "MPH.11.5": "n",
+   "MPH.11.6": "s",
+   "MPH.11.7": "d",
+   "MPH.11.8": "a",
+   "MPH.11.9": "s",
+   "MPH.11.10": "p",
+   "MPH.11.11": "i",
+   "MPH.12.0": "x",
+   "MPH.12.1": "r",
+   "MPH.12.2": "i",
+   "MPH.12.3": "n",
+   "MPH.12.4": "h",
+   "MPH.12.5": "t",
+   "MPH.12.6": "a",
+   "MPH.12.7": "r",
+   "MPH.12.8": "n",
+   "MPH.12.9": "d",
+   "MPH.12.10": "i",
+   "MPH.12.11": "l"
+  },
+  "margins": {
+   "MOR.10.4": {
+    "chosen": "p",
+    "cost_of_alternatives": {
+     "f": 2.5
+    },
+    "margin": 2.5
+   },
+   "MOR.2.7": {
+    "chosen": "o",
+    "cost_of_alternatives": {
+     "a": 2.5
+    },
+    "margin": 2.5
+   },
+   "MOR.7.0": {
+    "chosen": "r",
+    "cost_of_alternatives": {
+     "o": 6.0
+    },
+    "margin": 6.0
+   },
+   "MOR.7.1": {
+    "chosen": "o",
+    "cost_of_alternatives": {
+     "c": 4.0
+    },
+    "margin": 4.0
+   },
+   "MOR.7.10": {
+    "chosen": "o",
+    "cost_of_alternatives": {
+     "m": 4.0
+    },
+    "margin": 4.0
+   },
+   "MOR.7.11": {
+    "chosen": "m",
+    "cost_of_alternatives": {
+     "t": 4.0
+    },
+    "margin": 4.0
+   },
+   "MOR.7.2": {
+    "chosen": "c",
+    "cost_of_alternatives": {
+     "a": 3.0
+    },
+    "margin": 3.0
+   },
+   "MOR.7.3": {
+    "chosen": "a",
+    "cost_of_alternatives": {
+     "n": 3.0
+    },
+    "margin": 3.0
+   },
+   "MOR.7.4": {
+    "chosen": "n",
+    "cost_of_alternatives": {
+     "c": 2.0,
+     "m": 1.5
+    },
+    "margin": 1.5
+   },
+   "MOR.7.5": {
+    "chosen": "c",
+    "cost_of_alternatives": {
+     "h": 3.0
+    },
+    "margin": 3.0
+   },
+   "MOR.7.6": {
+    "chosen": "h",
+    "cost_of_alternatives": {
+     "i": 3.0
+    },
+    "margin": 3.0
+   },
+   "MOR.7.7": {
+    "chosen": "i",
+    "cost_of_alternatives": {
+     "a": 4.0
+    },
+    "margin": 4.0
+   },
+   "MOR.7.8": {
+    "chosen": "a",
+    "cost_of_alternatives": {
+     "s": 4.0
+    },
+    "margin": 4.0
+   },
+   "MOR.7.9": {
+    "chosen": "s",
+    "cost_of_alternatives": {
+     "o": 4.0
+    },
+    "margin": 4.0
+   },
+   "MOR.9.11": {
+    "chosen": "l",
+    "cost_of_alternatives": {
+     "p": 4.0
+    },
+    "margin": 4.0
+   },
+   "MOR.9.5": {
+    "chosen": "l",
+    "cost_of_alternatives": {
+     "b": 2.0
+    },
+    "margin": 2.0
+   },
+   "MPH.1.0": {
+    "chosen": "a",
+    "cost_of_alternatives": {
+     "o": 3.0
+    },
+    "margin": 3.0
+   },
+   "MPH.1.2": {
+    "chosen": "b",
+    "cost_of_alternatives": {
+     "l": 3.0
+    },
+    "margin": 3.0
+   },
+   "MPH.10.5": {
+    "chosen": "x",
+    "cost_of_alternatives": {
+     "z": 2.0
+    },
+    "margin": 2.0
+   },
+   "MPH.11.11": {
+    "chosen": "i",
+    "cost_of_alternatives": {
+     "p": 5.5
+    },
+    "margin": 5.5
+   },
+   "MPH.2.1": {
+    "chosen": "o",
+    "cost_of_alternatives": {
+     "a": 3.0
+    },
+    "margin": 3.0
+   },
+   "MPH.2.6": {
+    "chosen": "x",
+    "cost_of_alternatives": {
+     "z": 3.5
+    },
+    "margin": 3.5
+   },
+   "MPH.2.7": {
+    "chosen": "m",
+    "cost_of_alternatives": {
+     "i": 3.5
+    },
+    "margin": 3.5
+   },
+   "MPH.2.8": {
+    "chosen": "a",
+    "cost_of_alternatives": {
+     "n": 3.5
+    },
+    "margin": 3.5
+   },
+   "MPH.3.8": {
+    "chosen": "e",
+    "cost_of_alternatives": {
+     "a": 3.5
+    },
+    "margin": 3.5
+   },
+   "MPH.4.0": {
+    "chosen": "p",
+    "cost_of_alternatives": {
+     "f": 2.5
+    },
+    "margin": 2.5
+   },
+   "MPH.4.5": {
+    "chosen": "i",
+    "cost_of_alternatives": {
+     "u": 3.5
+    },
+    "margin": 3.5
+   },
+   "MPH.4.6": {
+    "chosen": "o",
+    "cost_of_alternatives": {
+     "i": 3.5
+    },
+    "margin": 3.5
+   },
+   "MPH.5.4": {
+    "chosen": "x",
+    "cost_of_alternatives": {
+     "p": 4.0,
+     "z": 1.75
+    },
+    "margin": 1.75
+   },
+   "MPH.6.10": {
+    "chosen": "o",
+    "cost_of_alternatives": {
+     "c": 3.5
+    },
+    "margin": 3.5
+   },
+   "MPH.6.11": {
+    "chosen": "l",
+    "cost_of_alternatives": {
+     "h": 3.5
+    },
+    "margin": 3.5
+   },
+   "MPH.8.5": {
+    "chosen": "a",
+    "cost_of_alternatives": {
+     "n": 4.0
+    },
+    "margin": 4.0
+   },
+   "OIP.0.11": {
+    "chosen": "a",
+    "cost_of_alternatives": {},
+    "margin": null
+   },
+   "OIP.1.10": {
+    "chosen": "u",
+    "cost_of_alternatives": {},
+    "margin": null
+   },
+   "OIP.1.11": {
+    "chosen": "a",
+    "cost_of_alternatives": {},
+    "margin": null
+   },
+   "OIP.11.3": {
+    "chosen": "p",
+    "cost_of_alternatives": {
+     "x": 5.5
+    },
+    "margin": 5.5
+   },
+   "OIP.11.8": {
+    "chosen": "a",
+    "cost_of_alternatives": {
+     "z": 5.5
+    },
+    "margin": 5.5
+   },
+   "OIP.2.6": {
+    "chosen": "o",
+    "cost_of_alternatives": {
+     "u": 4.0
+    },
+    "margin": 4.0
+   },
+   "OIP.3.1": {
+    "chosen": "p",
+    "cost_of_alternatives": {
+     "b": 2.5
+    },
+    "margin": 2.5
+   },
+   "OIP.4.4": {
+    "chosen": "o",
+    "cost_of_alternatives": {
+     "a": 2.5
+    },
+    "margin": 2.5
+   },
+   "OIP.7.0": {
+    "chosen": "p",
+    "cost_of_alternatives": {
+     "x": 5.5
+    },
+    "margin": 5.5
+   },
+   "OIP.9.2": {
+    "chosen": "l",
+    "cost_of_alternatives": {
+     "b": 5.0
+    },
+    "margin": 5.0
+   },
+   "ORO.0.7": {
+    "chosen": "u",
+    "cost_of_alternatives": {
+     "y": 0.0
+    },
+    "margin": 0.0
+   },
+   "ORO.10.10": {
+    "chosen": "a",
+    "cost_of_alternatives": {
+     "n": 6.0
+    },
+    "margin": 6.0
+   },
+   "ORO.3.5": {
+    "chosen": "x",
+    "cost_of_alternatives": {
+     "z": 6.0
+    },
+    "margin": 6.0
+   },
+   "ORO.4.6": {
+    "chosen": "m",
+    "cost_of_alternatives": {
+     "n": 4.5
+    },
+    "margin": 4.5
+   },
+   "ORO.6.9": {
+    "chosen": "z",
+    "cost_of_alternatives": {
+     "s": 4.5
+    },
+    "margin": 4.5
+   },
+   "ORO.7.0": {
+    "chosen": "c",
+    "cost_of_alternatives": {
+     "t": 4.0
+    },
+    "margin": 4.0
+   },
+   "ORO.7.10": {
+    "chosen": "z",
+    "cost_of_alternatives": {
+     "s": 4.0
+    },
+    "margin": 4.0
+   },
+   "ORO.7.4": {
+    "chosen": "r",
+    "cost_of_alternatives": {
+     "a": 2.5
+    },
+    "margin": 2.5
+   }
+  }
+ },
+ "default_1587": {
+  "weights": {
+   "ms84": 0.5,
+   "ms87": 2,
+   "s1": 1,
+   "gov_letter": 0.5,
+   "gov_name": 0.5,
+   "spoken": 0.5,
+   "inv": 0.5,
+   "cipher": 2
+  },
+  "cost": 68.5,
+  "optimal": true,
+  "garbled_governors": [
+   4,
+   6,
+   8,
+   10,
+   11,
+   19,
+   40,
+   42,
+   43,
+   44,
+   45,
+   46,
+   56,
+   61,
+   64,
+   65,
+   67,
+   70,
+   71,
+   78,
+   81,
+   82,
+   83,
+   87,
+   88,
+   91
+  ],
+  "changed_vs_C1": {
+   "ORO.0.7": [
+    "u",
+    "y"
+   ],
+   "ORO.3.5": [
+    "x",
+    "z"
+   ],
+   "ORO.7.0": [
+    "c",
+    "t"
+   ],
+   "ORO.7.10": [
+    "z",
+    "s"
+   ],
+   "ORO.10.10": [
+    "a",
+    "n"
+   ],
+   "MOR.7.0": [
+    "r",
+    "o"
+   ],
+   "MOR.7.1": [
+    "o",
+    "c"
+   ],
+   "MOR.7.2": [
+    "c",
+    "a"
+   ],
+   "MOR.7.3": [
+    "a",
+    "n"
+   ],
+   "MOR.7.4": [
+    "n",
+    "c"
+   ],
+   "MOR.7.5": [
+    "c",
+    "h"
+   ],
+   "MOR.7.6": [
+    "h",
+    "i"
+   ],
+   "MOR.7.7": [
+    "i",
+    "a"
+   ],
+   "MOR.7.8": [
+    "a",
+    "s"
+   ],
+   "MOR.7.9": [
+    "s",
+    "o"
+   ],
+   "MOR.7.10": [
+    "o",
+    "m"
+   ],
+   "MOR.7.11": [
+    "m",
+    "t"
+   ],
+   "MOR.9.11": [
+    "l",
+    "p"
+   ],
+   "OIP.0.11": [
+    "_",
+    "a"
+   ],
+   "OIP.1.10": [
+    "_",
+    "u"
+   ],
+   "OIP.1.11": [
+    "_",
+    "a"
+   ],
+   "OIP.2.6": [
+    "o",
+    "u"
+   ],
+   "MPH.8.5": [
+    "a",
+    "n"
+   ],
+   "MPH.10.5": [
+    "x",
+    "z"
+   ]
+  },
+  "changed_vs_S2": {
+   "OIP.9.2": [
+    "b",
+    "l"
+   ]
+  },
+  "names": {
+   "3": [
+    "Valgars",
+    "ualgars"
+   ],
+   "4": [
+    "Doagnis",
+    "dongnis"
+   ],
+   "6": [
+    "Dialiva",
+    "dialoia"
+   ],
+   "8": [
+    "Virochi",
+    "uirooli"
+   ],
+   "10": [
+    "Thotanf",
+    "thotanp"
+   ],
+   "11": [
+    "Axziarg",
+    "axxiarg"
+   ],
+   "17": [
+    "Vavaamp",
+    "uauaamp"
+   ],
+   "19": [
+    "Obmacas",
+    "opmacas"
+   ],
+   "32": [
+    "Vsnarda",
+    "usnarda"
+   ],
+   "40": [
+    "Tedoand",
+    "tedoond"
+   ],
+   "41": [
+    "Viuipos",
+    "uiuipos"
+   ],
+   "42": [
+    "Ooanamb",
+    "uoanamb"
+   ],
+   "43": [
+    "Tahando",
+    "tahamdo"
+   ],
+   "44": [
+    "Nociabi",
+    "notiabi"
+   ],
+   "45": [
+    "Tastoxo",
+    "tastozo"
+   ],
+   "46": [
+    "Cucarpt",
+    "cucnrpt"
+   ],
+   "56": [
+    "Abaiond",
+    "abriond"
+   ],
+   "61": [
+    "Chirspa",
+    "chirzpa"
+   ],
+   "63": [
+    "Vixpalg",
+    "uixpalg"
+   ],
+   "64": [
+    "Ozidaia",
+    "osidaia"
+   ],
+   "65": [
+    "Paraoan",
+    "paoaoan"
+   ],
+   "67": [
+    "Ronoamb",
+    "ronoomb"
+   ],
+   "70": [
+    "Orcamir",
+    "orancir"
+   ],
+   "71": [
+    "Chialps",
+    "chaslpo"
+   ],
+   "74": [
+    "Obvaors",
+    "obuaors"
+   ],
+   "78": [
+    "Bazchim",
+    "lazhiim"
+   ],
+   "81": [
+    "Orpanib",
+    "crpanib"
+   ],
+   "82": [
+    "Labnixp",
+    "pabnixp"
+   ],
+   "83": [
+    "Focisni",
+    "pocisni"
+   ],
+   "85": [
+    "Vastrim",
+    "uastrim"
+   ],
+   "87": [
+    "Gomziam",
+    "gmtziam"
+   ],
+   "88": [
+    "Taoagla",
+    "taaogba"
+   ],
+   "90": [
+    "Advorpt",
+    "aduorpt"
+   ],
+   "91": [
+    "Dozinal",
+    "doxmael"
+   ]
+  },
+  "table": {
+   "ORO.0.0": "r",
+   "ORO.0.1": "z",
+   "ORO.0.2": "i",
+   "ORO.0.3": "l",
+   "ORO.0.4": "a",
+   "ORO.0.5": "f",
+   "ORO.0.6": "a",
+   "ORO.0.7": "y",
+   "ORO.0.8": "t",
+   "ORO.0.9": "l",
+   "ORO.0.10": "p",
+   "ORO.0.11": "a",
+   "ORO.1.0": "a",
+   "ORO.1.1": "r",
+   "ORO.1.2": "d",
+   "ORO.1.3": "z",
+   "ORO.1.4": "a",
+   "ORO.1.5": "i",
+   "ORO.1.6": "d",
+   "ORO.1.7": "p",
+   "ORO.1.8": "a",
+   "ORO.1.9": "l",
+   "ORO.1.10": "a",
+   "ORO.1.11": "m",
+   "ORO.2.0": "c",
+   "ORO.2.1": "z",
+   "ORO.2.2": "o",
+   "ORO.2.3": "n",
+   "ORO.2.4": "s",
+   "ORO.2.5": "a",
+   "ORO.2.6": "r",
+   "ORO.2.7": "o",
+   "ORO.2.8": "y",
+   "ORO.2.9": "a",
+   "ORO.2.10": "u",
+   "ORO.2.11": "b",
+   "ORO.3.0": "t",
+   "ORO.3.1": "o",
+   "ORO.3.2": "i",
+   "ORO.3.3": "t",
+   "ORO.3.4": "t",
+   "ORO.3.5": "z",
+   "ORO.3.6": "o",
+   "ORO.3.7": "p",
+   "ORO.3.8": "a",
+   "ORO.3.9": "c",
+   "ORO.3.10": "o",
+   "ORO.3.11": "c",
+   "ORO.4.0": "s",
+   "ORO.4.1": "i",
+   "ORO.4.2": "g",
+   "ORO.4.3": "a",
+   "ORO.4.4": "s",
+   "ORO.4.5": "o",
+   "ORO.4.6": "m",
+   "ORO.4.7": "r",
+   "ORO.4.8": "b",
+   "ORO.4.9": "z",
+   "ORO.4.10": "n",
+   "ORO.4.11": "h",
+   "ORO.5.0": "f",
+   "ORO.5.1": "m",
+   "ORO.5.2": "o",
+   "ORO.5.3": "n",
+   "ORO.5.4": "d",
+   "ORO.5.5": "a",
+   "ORO.5.6": "t",
+   "ORO.5.7": "d",
+   "ORO.5.8": "i",
+   "ORO.5.9": "a",
+   "ORO.5.10": "r",
+   "ORO.5.11": "i",
+   "ORO.6.0": "o",
+   "ORO.6.1": "r",
+   "ORO.6.2": "o",
+   "ORO.6.3": "i",
+   "ORO.6.4": "b",
+   "ORO.6.5": "a",
+   "ORO.6.6": "h",
+   "ORO.6.7": "a",
+   "ORO.6.8": "o",
+   "ORO.6.9": "z",
+   "ORO.6.10": "p",
+   "ORO.6.11": "i",
+   "ORO.7.0": "t",
+   "ORO.7.1": "n",
+   "ORO.7.2": "a",
+   "ORO.7.3": "b",
+   "ORO.7.4": "r",
+   "ORO.7.5": "u",
+   "ORO.7.6": "i",
+   "ORO.7.7": "x",
+   "ORO.7.8": "g",
+   "ORO.7.9": "a",
+   "ORO.7.10": "s",
+   "ORO.7.11": "d",
+   "ORO.8.0": "o",
+   "ORO.8.1": "i",
+   "ORO.8.2": "i",
+   "ORO.8.3": "i",
+   "ORO.8.4": "t",
+   "ORO.8.5": "t",
+   "ORO.8.6": "p",
+   "ORO.8.7": "a",
+   "ORO.8.8": "l",
+   "ORO.8.9": "o",
+   "ORO.8.10": "a",
+   "ORO.8.11": "i",
+   "ORO.9.0": "a",
+   "ORO.9.1": "b",
+   "ORO.9.2": "a",
+   "ORO.9.3": "m",
+   "ORO.9.4": "o",
+   "ORO.9.5": "o",
+   "ORO.9.6": "o",
+   "ORO.9.7": "a",
+   "ORO.9.8": "c",
+   "ORO.9.9": "u",
+   "ORO.9.10": "c",
+   "ORO.9.11": "a",
+   "ORO.10.0": "n",
+   "ORO.10.1": "a",
+   "ORO.10.2": "o",
+   "ORO.10.3": "c",
+   "ORO.10.4": "o",
+   "ORO.10.5": "t",
+   "ORO.10.6": "t",
+   "ORO.10.7": "n",
+   "ORO.10.8": "p",
+   "ORO.10.9": "r",
+   "ORO.10.10": "n",
+   "ORO.10.11": "t",
+   "ORO.11.0": "o",
+   "ORO.11.1": "c",
+   "ORO.11.2": "a",
+   "ORO.11.3": "n",
+   "ORO.11.4": "m",
+   "ORO.11.5": "a",
+   "ORO.11.6": "g",
+   "ORO.11.7": "o",
+   "ORO.11.8": "t",
+   "ORO.11.9": "r",
+   "ORO.11.10": "o",
+   "ORO.11.11": "i",
+   "ORO.12.0": "s",
+   "ORO.12.1": "h",
+   "ORO.12.2": "i",
+   "ORO.12.3": "a",
+   "ORO.12.4": "l",
+   "ORO.12.5": "r",
+   "ORO.12.6": "a",
+   "ORO.12.7": "p",
+   "ORO.12.8": "m",
+   "ORO.12.9": "z",
+   "ORO.12.10": "o",
+   "ORO.12.11": "x",
+   "MOR.0.0": "b",
+   "MOR.0.1": "o",
+   "MOR.0.2": "a",
+   "MOR.0.3": "z",
+   "MOR.0.4": "a",
+   "MOR.0.5": "r",
+   "MOR.0.6": "o",
+   "MOR.0.7": "p",
+   "MOR.0.8": "h",
+   "MOR.0.9": "a",
+   "MOR.0.10": "r",
+   "MOR.0.11": "a",
+   "MOR.1.0": "u",
+   "MOR.1.1": "n",
+   "MOR.1.2": "n",
+   "MOR.1.3": "a",
+   "MOR.1.4": "x",
+   "MOR.1.5": "o",
+   "MOR.1.6": "p",
+   "MOR.1.7": "s",
+   "MOR.1.8": "o",
+   "MOR.1.9": "n",
+   "MOR.1.10": "d",
+   "MOR.1.11": "n",
+   "MOR.2.0": "a",
+   "MOR.2.1": "i",
+   "MOR.2.2": "g",
+   "MOR.2.3": "r",
+   "MOR.2.4": "a",
+   "MOR.2.5": "n",
+   "MOR.2.6": "o",
+   "MOR.2.7": "o",
+   "MOR.2.8": "m",
+   "MOR.2.9": "a",
+   "MOR.2.10": "g",
+   "MOR.2.11": "g",
+   "MOR.3.0": "o",
+   "MOR.3.1": "r",
+   "MOR.3.2": "p",
+   "MOR.3.3": "m",
+   "MOR.3.4": "n",
+   "MOR.3.5": "i",
+   "MOR.3.6": "n",
+   "MOR.3.7": "g",
+   "MOR.3.8": "b",
+   "MOR.3.9": "e",
+   "MOR.3.10": "a",
+   "MOR.3.11": "l",
+   "MOR.4.0": "r",
+   "MOR.4.1": "s",
+   "MOR.4.2": "o",
+   "MOR.4.3": "n",
+   "MOR.4.4": "i",
+   "MOR.4.5": "z",
+   "MOR.4.6": "i",
+   "MOR.4.7": "r",
+   "MOR.4.8": "l",
+   "MOR.4.9": "e",
+   "MOR.4.10": "m",
+   "MOR.4.11": "u",
+   "MOR.5.0": "i",
+   "MOR.5.1": "z",
+   "MOR.5.2": "i",
+   "MOR.5.3": "n",
+   "MOR.5.4": "r",
+   "MOR.5.5": "c",
+   "MOR.5.6": "z",
+   "MOR.5.7": "i",
+   "MOR.5.8": "a",
+   "MOR.5.9": "m",
+   "MOR.5.10": "h",
+   "MOR.5.11": "l",
+   "MOR.6.0": "m",
+   "MOR.6.1": "o",
+   "MOR.6.2": "r",
+   "MOR.6.3": "d",
+   "MOR.6.4": "i",
+   "MOR.6.5": "a",
+   "MOR.6.6": "l",
+   "MOR.6.7": "h",
+   "MOR.6.8": "c",
+   "MOR.6.9": "t",
+   "MOR.6.10": "g",
+   "MOR.6.11": "a",
+   "MOR.7.0": "o",
+   "MOR.7.1": "c",
+   "MOR.7.2": "a",
+   "MOR.7.3": "n",
+   "MOR.7.4": "c",
+   "MOR.7.5": "h",
+   "MOR.7.6": "i",
+   "MOR.7.7": "a",
+   "MOR.7.8": "s",
+   "MOR.7.9": "o",
+   "MOR.7.10": "m",
+   "MOR.7.11": "t",
+   "MOR.8.0": "a",
+   "MOR.8.1": "r",
+   "MOR.8.2": "b",
+   "MOR.8.3": "i",
+   "MOR.8.4": "z",
+   "MOR.8.5": "m",
+   "MOR.8.6": "i",
+   "MOR.8.7": "i",
+   "MOR.8.8": "l",
+   "MOR.8.9": "p",
+   "MOR.8.10": "i",
+   "MOR.8.11": "z",
+   "MOR.9.0": "o",
+   "MOR.9.1": "p",
+   "MOR.9.2": "a",
+   "MOR.9.3": "n",
+   "MOR.9.4": "a",
+   "MOR.9.5": "l",
+   "MOR.9.6": "a",
+   "MOR.9.7": "m",
+   "MOR.9.8": "s",
+   "MOR.9.9": "m",
+   "MOR.9.10": "a",
+   "MOR.9.11": "p",
+   "MOR.10.0": "d",
+   "MOR.10.1": "o",
+   "MOR.10.2": "l",
+   "MOR.10.3": "o",
+   "MOR.10.4": "p",
+   "MOR.10.5": "i",
+   "MOR.10.6": "n",
+   "MOR.10.7": "i",
+   "MOR.10.8": "a",
+   "MOR.10.9": "n",
+   "MOR.10.10": "b",
+   "MOR.10.11": "a",
+   "MOR.11.0": "r",
+   "MOR.11.1": "x",
+   "MOR.11.2": "p",
+   "MOR.11.3": "a",
+   "MOR.11.4": "o",
+   "MOR.11.5": "c",
+   "MOR.11.6": "s",
+   "MOR.11.7": "i",
+   "MOR.11.8": "z",
+   "MOR.11.9": "i",
+   "MOR.11.10": "x",
+   "MOR.11.11": "p",
+   "MOR.12.0": "a",
+   "MOR.12.1": "x",
+   "MOR.12.2": "t",
+   "MOR.12.3": "i",
+   "MOR.12.4": "r",
+   "MOR.12.5": "u",
+   "MOR.12.6": "a",
+   "MOR.12.7": "s",
+   "MOR.12.8": "t",
+   "MOR.12.9": "r",
+   "MOR.12.10": "i",
+   "MOR.12.11": "m",
+   "OIP.0.0": "d",
+   "OIP.0.1": "o",
+   "OIP.0.2": "n",
+   "OIP.0.3": "p",
+   "OIP.0.4": "a",
+   "OIP.0.5": "t",
+   "OIP.0.6": "d",
+   "OIP.0.7": "a",
+   "OIP.0.8": "n",
+   "OIP.0.9": "u",
+   "OIP.0.10": "a",
+   "OIP.0.11": "a",
+   "OIP.1.0": "o",
+   "OIP.1.1": "l",
+   "OIP.1.2": "o",
+   "OIP.1.3": "a",
+   "OIP.1.4": "g",
+   "OIP.1.5": "e",
+   "OIP.1.6": "o",
+   "OIP.1.7": "o",
+   "OIP.1.8": "b",
+   "OIP.1.9": "a",
+   "OIP.1.10": "u",
+   "OIP.1.11": "a",
+   "OIP.2.0": "o",
+   "OIP.2.1": "p",
+   "OIP.2.2": "a",
+   "OIP.2.3": "m",
+   "OIP.2.4": "n",
+   "OIP.2.5": "o",
+   "OIP.2.6": "u",
+   "OIP.2.7": "g",
+   "OIP.2.8": "m",
+   "OIP.2.9": "d",
+   "OIP.2.10": "n",
+   "OIP.2.11": "m",
+   "OIP.3.0": "a",
+   "OIP.3.1": "p",
+   "OIP.3.2": "l",
+   "OIP.3.3": "s",
+   "OIP.3.4": "t",
+   "OIP.3.5": "e",
+   "OIP.3.6": "d",
+   "OIP.3.7": "e",
+   "OIP.3.8": "c",
+   "OIP.3.9": "a",
+   "OIP.3.10": "o",
+   "OIP.3.11": "p",
+   "OIP.4.0": "s",
+   "OIP.4.1": "c",
+   "OIP.4.2": "m",
+   "OIP.4.3": "i",
+   "OIP.4.4": "o",
+   "OIP.4.5": "o",
+   "OIP.4.6": "n",
+   "OIP.4.7": "a",
+   "OIP.4.8": "m",
+   "OIP.4.9": "l",
+   "OIP.4.10": "o",
+   "OIP.4.11": "x",
+   "OIP.5.0": "u",
+   "OIP.5.1": "a",
+   "OIP.5.2": "r",
+   "OIP.5.3": "s",
+   "OIP.5.4": "g",
+   "OIP.5.5": "d",
+   "OIP.5.6": "l",
+   "OIP.5.7": "b",
+   "OIP.5.8": "r",
+   "OIP.5.9": "i",
+   "OIP.5.10": "a",
+   "OIP.5.11": "p",
+   "OIP.6.0": "o",
+   "OIP.6.1": "i",
+   "OIP.6.2": "p",
+   "OIP.6.3": "t",
+   "OIP.6.4": "e",
+   "OIP.6.5": "a",
+   "OIP.6.6": "a",
+   "OIP.6.7": "p",
+   "OIP.6.8": "d",
+   "OIP.6.9": "o",
+   "OIP.6.10": "c",
+   "OIP.6.11": "e",
+   "OIP.7.0": "p",
+   "OIP.7.1": "s",
+   "OIP.7.2": "u",
+   "OIP.7.3": "a",
+   "OIP.7.4": "c",
+   "OIP.7.5": "n",
+   "OIP.7.6": "r",
+   "OIP.7.7": "z",
+   "OIP.7.8": "i",
+   "OIP.7.9": "r",
+   "OIP.7.10": "z",
+   "OIP.7.11": "a",
+   "OIP.8.0": "s",
+   "OIP.8.1": "i",
+   "OIP.8.2": "o",
+   "OIP.8.3": "d",
+   "OIP.8.4": "a",
+   "OIP.8.5": "o",
+   "OIP.8.6": "i",
+   "OIP.8.7": "n",
+   "OIP.8.8": "r",
+   "OIP.8.9": "z",
+   "OIP.8.10": "f",
+   "OIP.8.11": "m",
+   "OIP.9.0": "d",
+   "OIP.9.1": "a",
+   "OIP.9.2": "l",
+   "OIP.9.3": "t",
+   "OIP.9.4": "t",
+   "OIP.9.5": "d",
+   "OIP.9.6": "n",
+   "OIP.9.7": "a",
+   "OIP.9.8": "d",
+   "OIP.9.9": "i",
+   "OIP.9.10": "r",
+   "OIP.9.11": "e",
+   "OIP.10.0": "d",
+   "OIP.10.1": "i",
+   "OIP.10.2": "x",
+   "OIP.10.3": "o",
+   "OIP.10.4": "m",
+   "OIP.10.5": "o",
+   "OIP.10.6": "n",
+   "OIP.10.7": "s",
+   "OIP.10.8": "i",
+   "OIP.10.9": "o",
+   "OIP.10.10": "s",
+   "OIP.10.11": "p",
+   "OIP.11.0": "o",
+   "OIP.11.1": "o",
+   "OIP.11.2": "d",
+   "OIP.11.3": "p",
+   "OIP.11.4": "z",
+   "OIP.11.5": "i",
+   "OIP.11.6": "a",
+   "OIP.11.7": "p",
+   "OIP.11.8": "a",
+   "OIP.11.9": "n",
+   "OIP.11.10": "l",
+   "OIP.11.11": "i",
+   "OIP.12.0": "r",
+   "OIP.12.1": "g",
+   "OIP.12.2": "o",
+   "OIP.12.3": "a",
+   "OIP.12.4": "n",
+   "OIP.12.5": "n",
+   "OIP.12.6": "p",
+   "OIP.12.7": "a",
+   "OIP.12.8": "c",
+   "OIP.12.9": "r",
+   "OIP.12.10": "a",
+   "OIP.12.11": "r",
+   "MPH.0.0": "t",
+   "MPH.0.1": "a",
+   "MPH.0.2": "o",
+   "MPH.0.3": "a",
+   "MPH.0.4": "d",
+   "MPH.0.5": "u",
+   "MPH.0.6": "p",
+   "MPH.0.7": "t",
+   "MPH.0.8": "d",
+   "MPH.0.9": "n",
+   "MPH.0.10": "i",
+   "MPH.0.11": "m",
+   "MPH.1.0": "a",
+   "MPH.1.1": "a",
+   "MPH.1.2": "b",
+   "MPH.1.3": "c",
+   "MPH.1.4": "o",
+   "MPH.1.5": "o",
+   "MPH.1.6": "r",
+   "MPH.1.7": "o",
+   "MPH.1.8": "m",
+   "MPH.1.9": "e",
+   "MPH.1.10": "b",
+   "MPH.1.11": "b",
+   "MPH.2.0": "t",
+   "MPH.2.1": "o",
+   "MPH.2.2": "g",
+   "MPH.2.3": "c",
+   "MPH.2.4": "o",
+   "MPH.2.5": "n",
+   "MPH.2.6": "x",
+   "MPH.2.7": "m",
+   "MPH.2.8": "a",
+   "MPH.2.9": "l",
+   "MPH.2.10": "g",
+   "MPH.2.11": "m",
+   "MPH.3.0": "n",
+   "MPH.3.1": "h",
+   "MPH.3.2": "o",
+   "MPH.3.3": "d",
+   "MPH.3.4": "d",
+   "MPH.3.5": "i",
+   "MPH.3.6": "a",
+   "MPH.3.7": "l",
+   "MPH.3.8": "e",
+   "MPH.3.9": "a",
+   "MPH.3.10": "o",
+   "MPH.3.11": "c",
+   "MPH.4.0": "p",
+   "MPH.4.1": "a",
+   "MPH.4.2": "t",
+   "MPH.4.3": "a",
+   "MPH.4.4": "x",
+   "MPH.4.5": "i",
+   "MPH.4.6": "o",
+   "MPH.4.7": "u",
+   "MPH.4.8": "s",
+   "MPH.4.9": "p",
+   "MPH.4.10": "s",
+   "MPH.4.11": "n",
+   "MPH.5.0": "s",
+   "MPH.5.1": "a",
+   "MPH.5.2": "a",
+   "MPH.5.3": "i",
+   "MPH.5.4": "x",
+   "MPH.5.5": "a",
+   "MPH.5.6": "a",
+   "MPH.5.7": "r",
+   "MPH.5.8": "u",
+   "MPH.5.9": "r",
+   "MPH.5.10": "o",
+   "MPH.5.11": "i",
+   "MPH.6.0": "m",
+   "MPH.6.1": "p",
+   "MPH.6.2": "h",
+   "MPH.6.3": "a",
+   "MPH.6.4": "r",
+   "MPH.6.5": "s",
+   "MPH.6.6": "l",
+   "MPH.6.7": "g",
+   "MPH.6.8": "a",
+   "MPH.6.9": "i",
+   "MPH.6.10": "o",
+   "MPH.6.11": "l",
+   "MPH.7.0": "m",
+   "MPH.7.1": "a",
+   "MPH.7.2": "m",
+   "MPH.7.3": "g",
+   "MPH.7.4": "l",
+   "MPH.7.5": "o",
+   "MPH.7.6": "i",
+   "MPH.7.7": "n",
+   "MPH.7.8": "l",
+   "MPH.7.9": "i",
+   "MPH.7.10": "r",
+   "MPH.7.11": "x",
+   "MPH.8.0": "o",
+   "MPH.8.1": "l",
+   "MPH.8.2": "a",
+   "MPH.8.3": "a",
+   "MPH.8.4": "d",
+   "MPH.8.5": "n",
+   "MPH.8.6": "g",
+   "MPH.8.7": "a",
+   "MPH.8.8": "t",
+   "MPH.8.9": "a",
+   "MPH.8.10": "p",
+   "MPH.8.11": "a",
+   "MPH.9.0": "p",
+   "MPH.9.1": "a",
+   "MPH.9.2": "l",
+   "MPH.9.3": "c",
+   "MPH.9.4": "o",
+   "MPH.9.5": "i",
+   "MPH.9.6": "d",
+   "MPH.9.7": "x",
+   "MPH.9.8": "p",
+   "MPH.9.9": "a",
+   "MPH.9.10": "c",
+   "MPH.9.11": "n",
+   "MPH.10.0": "n",
+   "MPH.10.1": "d",
+   "MPH.10.2": "a",
+   "MPH.10.3": "z",
+   "MPH.10.4": "n",
+   "MPH.10.5": "z",
+   "MPH.10.6": "i",
+   "MPH.10.7": "u",
+   "MPH.10.8": "a",
+   "MPH.10.9": "a",
+   "MPH.10.10": "s",
+   "MPH.10.11": "a",
+   "MPH.11.0": "i",
+   "MPH.11.1": "i",
+   "MPH.11.2": "d",
+   "MPH.11.3": "p",
+   "MPH.11.4": "o",
+   "MPH.11.5": "n",
+   "MPH.11.6": "s",
+   "MPH.11.7": "d",
+   "MPH.11.8": "a",
+   "MPH.11.9": "s",
+   "MPH.11.10": "p",
+   "MPH.11.11": "i",
+   "MPH.12.0": "x",
+   "MPH.12.1": "r",
+   "MPH.12.2": "i",
+   "MPH.12.3": "n",
+   "MPH.12.4": "h",
+   "MPH.12.5": "t",
+   "MPH.12.6": "a",
+   "MPH.12.7": "r",
+   "MPH.12.8": "n",
+   "MPH.12.9": "d",
+   "MPH.12.10": "i",
+   "MPH.12.11": "l"
+  },
+  "margins": {
+   "MOR.10.4": {
+    "chosen": "p",
+    "cost_of_alternatives": {
+     "f": 4.5
+    },
+    "margin": 4.5
+   },
+   "MOR.2.7": {
+    "chosen": "o",
+    "cost_of_alternatives": {
+     "a": 4.5
+    },
+    "margin": 4.5
+   },
+   "MOR.7.0": {
+    "chosen": "o",
+    "cost_of_alternatives": {
+     "r": 2.5
+    },
+    "margin": 2.5
+   },
+   "MOR.7.1": {
+    "chosen": "c",
+    "cost_of_alternatives": {
+     "o": 3.0
+    },
+    "margin": 3.0
+   },
+   "MOR.7.10": {
+    "chosen": "m",
+    "cost_of_alternatives": {
+     "o": 5.5
+    },
+    "margin": 5.5
+   },
+   "MOR.7.11": {
+    "chosen": "t",
+    "cost_of_alternatives": {
+     "m": 3.5
+    },
+    "margin": 3.5
+   },
+   "MOR.7.2": {
+    "chosen": "a",
+    "cost_of_alternatives": {
+     "c": 3.5
+    },
+    "margin": 3.5
+   },
+   "MOR.7.3": {
+    "chosen": "n",
+    "cost_of_alternatives": {
+     "a": 3.5
+    },
+    "margin": 3.5
+   },
+   "MOR.7.4": {
+    "chosen": "c",
+    "cost_of_alternatives": {
+     "m": 4.5,
+     "n": 4.0
+    },
+    "margin": 4.0
+   },
+   "MOR.7.5": {
+    "chosen": "h",
+    "cost_of_alternatives": {
+     "c": 3.5
+    },
+    "margin": 3.5
+   },
+   "MOR.7.6": {
+    "chosen": "i",
+    "cost_of_alternatives": {
+     "h": 3.5
+    },
+    "margin": 3.5
+   },
+   "MOR.7.7": {
+    "chosen": "a",
+    "cost_of_alternatives": {
+     "i": 3.5
+    },
+    "margin": 3.5
+   },
+   "MOR.7.8": {
+    "chosen": "s",
+    "cost_of_alternatives": {
+     "a": 3.5
+    },
+    "margin": 3.5
+   },
+   "MOR.7.9": {
+    "chosen": "o",
+    "cost_of_alternatives": {
+     "s": 5.5
+    },
+    "margin": 5.5
+   },
+   "MOR.9.11": {
+    "chosen": "p",
+    "cost_of_alternatives": {
+     "l": 3.0
+    },
+    "margin": 3.0
+   },
+   "MOR.9.5": {
+    "chosen": "l",
+    "cost_of_alternatives": {
+     "b": 4.5
+    },
+    "margin": 4.5
+   },
+   "MPH.1.0": {
+    "chosen": "a",
+    "cost_of_alternatives": {
+     "o": 4.5
+    },
+    "margin": 4.5
+   },
+   "MPH.1.2": {
+    "chosen": "b",
+    "cost_of_alternatives": {
+     "l": 6.5
+    },
+    "margin": 6.5
+   },
+   "MPH.10.5": {
+    "chosen": "z",
+    "cost_of_alternatives": {
+     "x": 4.0
+    },
+    "margin": 4.0
+   },
+   "MPH.11.11": {
+    "chosen": "i",
+    "cost_of_alternatives": {
+     "p": 4.5
+    },
+    "margin": 4.5
+   },
+   "MPH.2.1": {
+    "chosen": "o",
+    "cost_of_alternatives": {
+     "a": 4.5
+    },
+    "margin": 4.5
+   },
+   "MPH.2.6": {
+    "chosen": "x",
+    "cost_of_alternatives": {
+     "z": 5.0
+    },
+    "margin": 5.0
+   },
+   "MPH.2.7": {
+    "chosen": "m",
+    "cost_of_alternatives": {
+     "i": 7.0
+    },
+    "margin": 7.0
+   },
+   "MPH.2.8": {
+    "chosen": "a",
+    "cost_of_alternatives": {
+     "n": 5.0
+    },
+    "margin": 5.0
+   },
+   "MPH.3.8": {
+    "chosen": "e",
+    "cost_of_alternatives": {
+     "a": 7.0
+    },
+    "margin": 7.0
+   },
+   "MPH.4.0": {
+    "chosen": "p",
+    "cost_of_alternatives": {
+     "f": 4.5
+    },
+    "margin": 4.5
+   },
+   "MPH.4.5": {
+    "chosen": "i",
+    "cost_of_alternatives": {
+     "u": 5.0
+    },
+    "margin": 5.0
+   },
+   "MPH.4.6": {
+    "chosen": "o",
+    "cost_of_alternatives": {
+     "i": 5.0
+    },
+    "margin": 5.0
+   },
+   "MPH.5.4": {
+    "chosen": "x",
+    "cost_of_alternatives": {
+     "p": 3.5,
+     "z": 3.0
+    },
+    "margin": 3.0
+   },
+   "MPH.6.10": {
+    "chosen": "o",
+    "cost_of_alternatives": {
+     "c": 5.0
+    },
+    "margin": 5.0
+   },
+   "MPH.6.11": {
+    "chosen": "l",
+    "cost_of_alternatives": {
+     "h": 5.0
+    },
+    "margin": 5.0
+   },
+   "MPH.8.5": {
+    "chosen": "n",
+    "cost_of_alternatives": {
+     "a": 3.0
+    },
+    "margin": 3.0
+   },
+   "OIP.0.11": {
+    "chosen": "a",
+    "cost_of_alternatives": {},
+    "margin": null
+   },
+   "OIP.1.10": {
+    "chosen": "u",
+    "cost_of_alternatives": {},
+    "margin": null
+   },
+   "OIP.1.11": {
+    "chosen": "a",
+    "cost_of_alternatives": {},
+    "margin": null
+   },
+   "OIP.11.3": {
+    "chosen": "p",
+    "cost_of_alternatives": {
+     "x": 4.5
+    },
+    "margin": 4.5
+   },
+   "OIP.11.8": {
+    "chosen": "a",
+    "cost_of_alternatives": {
+     "z": 8.5
+    },
+    "margin": 8.5
+   },
+   "OIP.2.6": {
+    "chosen": "u",
+    "cost_of_alternatives": {
+     "o": 3.0
+    },
+    "margin": 3.0
+   },
+   "OIP.3.1": {
+    "chosen": "p",
+    "cost_of_alternatives": {
+     "b": 4.5
+    },
+    "margin": 4.5
+   },
+   "OIP.4.4": {
+    "chosen": "o",
+    "cost_of_alternatives": {
+     "a": 4.5
+    },
+    "margin": 4.5
+   },
+   "OIP.7.0": {
+    "chosen": "p",
+    "cost_of_alternatives": {
+     "x": 2.5
+    },
+    "margin": 2.5
+   },
+   "OIP.9.2": {
+    "chosen": "l",
+    "cost_of_alternatives": {
+     "b": 1.5
+    },
+    "margin": 1.5
+   },
+   "ORO.0.7": {
+    "chosen": "y",
+    "cost_of_alternatives": {
+     "u": 5.0
+    },
+    "margin": 5.0
+   },
+   "ORO.10.10": {
+    "chosen": "n",
+    "cost_of_alternatives": {
+     "a": 2.5
+    },
+    "margin": 2.5
+   },
+   "ORO.3.5": {
+    "chosen": "z",
+    "cost_of_alternatives": {
+     "x": 2.5
+    },
+    "margin": 2.5
+   },
+   "ORO.4.6": {
+    "chosen": "m",
+    "cost_of_alternatives": {
+     "n": 7.0
+    },
+    "margin": 7.0
+   },
+   "ORO.6.9": {
+    "chosen": "z",
+    "cost_of_alternatives": {
+     "s": 5.0
+    },
+    "margin": 5.0
+   },
+   "ORO.7.0": {
+    "chosen": "t",
+    "cost_of_alternatives": {
+     "c": 5.0
+    },
+    "margin": 5.0
+   },
+   "ORO.7.10": {
+    "chosen": "s",
+    "cost_of_alternatives": {
+     "z": 3.0
+    },
+    "margin": 3.0
+   },
+   "ORO.7.4": {
+    "chosen": "r",
+    "cost_of_alternatives": {
+     "a": 4.5
+    },
+    "margin": 4.5
+   }
+  }
+ },
+ "sweep_1584": {
+  "n_weightings": 1296,
+  "cell_choices": {
+   "MOR.10.4": {
+    "p": 927,
+    "f": 369
+   },
+   "MOR.2.7": {
+    "o": 927,
+    "a": 369
+   },
+   "MOR.7.0": {
+    "r": 1295,
+    "o": 1
+   },
+   "MOR.7.1": {
+    "o": 1272,
+    "c": 24
+   },
+   "MOR.7.10": {
+    "o": 1278,
+    "m": 18
+   },
+   "MOR.7.11": {
+    "m": 1278,
+    "t": 18
+   },
+   "MOR.7.2": {
+    "c": 1272,
+    "a": 24
+   },
+   "MOR.7.3": {
+    "a": 1272,
+    "n": 24
+   },
+   "MOR.7.4": {
+    "n": 666,
+    "m": 531,
+    "c": 99
+   },
+   "MOR.7.5": {
+    "c": 1269,
+    "h": 27
+   },
+   "MOR.7.6": {
+    "h": 1269,
+    "i": 27
+   },
+   "MOR.7.7": {
+    "i": 1275,
+    "a": 21
+   },
+   "MOR.7.8": {
+    "a": 1275,
+    "s": 21
+   },
+   "MOR.7.9": {
+    "s": 1275,
+    "o": 21
+   },
+   "MOR.9.11": {
+    "l": 1272,
+    "p": 24
+   },
+   "MOR.9.5": {
+    "l": 834,
+    "b": 462
+   },
+   "MPH.1.0": {
+    "a": 1029,
+    "o": 267
+   },
+   "MPH.1.2": {
+    "b": 1029,
+    "l": 267
+   },
+   "MPH.10.5": {
+    "x": 1116,
+    "z": 180
+   },
+   "MPH.11.11": {
+    "i": 1296
+   },
+   "MPH.2.1": {
+    "o": 1029,
+    "a": 267
+   },
+   "MPH.2.6": {
+    "x": 1134,
+    "z": 162
+   },
+   "MPH.2.7": {
+    "m": 1134,
+    "i": 162
+   },
+   "MPH.2.8": {
+    "a": 1134,
+    "n": 162
+   },
+   "MPH.3.8": {
+    "e": 1134,
+    "a": 162
+   },
+   "MPH.4.0": {
+    "p": 927,
+    "f": 369
+   },
+   "MPH.4.5": {
+    "i": 1125,
+    "u": 171
+   },
+   "MPH.4.6": {
+    "o": 1125,
+    "i": 171
+   },
+   "MPH.5.4": {
+    "x": 798,
+    "z": 498
+   },
+   "MPH.6.10": {
+    "o": 1125,
+    "c": 171
+   },
+   "MPH.6.11": {
+    "l": 1125,
+    "h": 171
+   },
+   "MPH.8.5": {
+    "a": 1272,
+    "n": 24
+   },
+   "OIP.0.11": {
+    "a": 1296
+   },
+   "OIP.1.10": {
+    "u": 1296
+   },
+   "OIP.1.11": {
+    "a": 1296
+   },
+   "OIP.11.3": {
+    "p": 1296
+   },
+   "OIP.11.8": {
+    "a": 1296
+   },
+   "OIP.2.6": {
+    "o": 1272,
+    "u": 24
+   },
+   "OIP.3.1": {
+    "p": 927,
+    "b": 369
+   },
+   "OIP.4.4": {
+    "o": 927,
+    "a": 369
+   },
+   "OIP.7.0": {
+    "p": 1296
+   },
+   "OIP.9.2": {
+    "l": 1296
+   },
+   "ORO.0.7": {
+    "u": 438,
+    "y": 858
+   },
+   "ORO.10.10": {
+    "a": 1295,
+    "n": 1
+   },
+   "ORO.3.5": {
+    "x": 1295,
+    "z": 1
+   },
+   "ORO.4.6": {
+    "m": 1191,
+    "n": 105
+   },
+   "ORO.6.9": {
+    "z": 1191,
+    "s": 105
+   },
+   "ORO.7.0": {
+    "c": 1272,
+    "t": 24
+   },
+   "ORO.7.10": {
+    "z": 1272,
+    "s": 24
+   },
+   "ORO.7.4": {
+    "r": 927,
+    "a": 369
+   }
+  },
+  "garbled_frequency": {
+   "4": 435,
+   "6": 1125,
+   "8": 1125,
+   "9": 144,
+   "10": 963,
+   "11": 861,
+   "19": 963,
+   "20": 432,
+   "21": 432,
+   "40": 963,
+   "42": 435,
+   "43": 1194,
+   "44": 435,
+   "45": 432,
+   "46": 432,
+   "50": 633,
+   "56": 963,
+   "61": 1194,
+   "64": 435,
+   "65": 432,
+   "67": 963,
+   "70": 765,
+   "78": 834,
+   "81": 435,
+   "82": 435,
+   "83": 963,
+   "88": 1029,
+   "91": 1134,
+   "16": 288,
+   "41": 288,
+   "71": 21,
+   "87": 18
+  }
+ },
+ "loo_1584": {
+  "exact": 75,
+  "n": 91,
+  "letters_right": 614,
+  "letters": 637,
+  "detail": [
+   {
+    "n": 1,
+    "name": "Occodon",
+    "pred": "occodon",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 2,
+    "name": "Pascomb",
+    "pred": "pascomb",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 3,
+    "name": "Valgars",
+    "pred": "ualgars",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 4,
+    "name": "Doagnis",
+    "pred": "doagnis",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 5,
+    "name": "Pacasna",
+    "pred": "pacasna",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 6,
+    "name": "Dialiva",
+    "pred": "dialoia",
+    "exact": false,
+    "letters_right": 5,
+    "len": 7
+   },
+   {
+    "n": 7,
+    "name": "Samapha",
+    "pred": "samapha",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 8,
+    "name": "Virochi",
+    "pred": "uirooli",
+    "exact": false,
+    "letters_right": 5,
+    "len": 7
+   },
+   {
+    "n": 9,
+    "name": "Andispi",
+    "pred": "andispi",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 10,
+    "name": "Thotanf",
+    "pred": "thotanp",
+    "exact": false,
+    "letters_right": 6,
+    "len": 7
+   },
+   {
+    "n": 11,
+    "name": "Axziarg",
+    "pred": "axxiarg",
+    "exact": false,
+    "letters_right": 6,
+    "len": 7
+   },
+   {
+    "n": 12,
+    "name": "Pothnir",
+    "pred": "pothnir",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 13,
+    "name": "Lazdixi",
+    "pred": "lazdixi",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 14,
+    "name": "Nocamal",
+    "pred": "nocamal",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 15,
+    "name": "Tiarpax",
+    "pred": "tiarpax",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 16,
+    "name": "Saxtomp",
+    "pred": "saxtomp",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 17,
+    "name": "Vavaamp",
+    "pred": "uauaamp",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 18,
+    "name": "Zirzird",
+    "pred": "zirzird",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 19,
+    "name": "Obmacas",
+    "pred": "opmacas",
+    "exact": false,
+    "letters_right": 6,
+    "len": 7
+   },
+   {
+    "n": 20,
+    "name": "Genadol",
+    "pred": "genadol",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 21,
+    "name": "Aspiaon",
+    "pred": "aspiaon",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 22,
+    "name": "Zamfres",
+    "pred": "zamfres",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 23,
+    "name": "Todnaon",
+    "pred": "todnaon",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 24,
+    "name": "Pristac",
+    "pred": "pristac",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 25,
+    "name": "Oddiorg",
+    "pred": "oddiorg",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 26,
+    "name": "Cralpir",
+    "pred": "cralpir",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 27,
+    "name": "Doanzin",
+    "pred": "doanzin",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 28,
+    "name": "Lexarph",
+    "pred": "lexarph",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 29,
+    "name": "Comanan",
+    "pred": "comanan",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 30,
+    "name": "Tabitom",
+    "pred": "tabitom",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 31,
+    "name": "Molpand",
+    "pred": "molpand",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 32,
+    "name": "Vsnarda",
+    "pred": "usnarda",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 33,
+    "name": "Ponodol",
+    "pred": "ponodol",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 34,
+    "name": "Tapamal",
+    "pred": "tapamal",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 35,
+    "name": "Gedoons",
+    "pred": "gedoons",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 36,
+    "name": "Ambriol",
+    "pred": "ambriol",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 37,
+    "name": "Gecaond",
+    "pred": "gecaond",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 38,
+    "name": "Laparin",
+    "pred": "laparin",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 39,
+    "name": "Docepax",
+    "pred": "docepax",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 40,
+    "name": "Tedoand",
+    "pred": "tedoond",
+    "exact": false,
+    "letters_right": 6,
+    "len": 7
+   },
+   {
+    "n": 41,
+    "name": "Viuipos",
+    "pred": "uiuipos",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 42,
+    "name": "Ooanamb",
+    "pred": "ooanamb",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 43,
+    "name": "Tahando",
+    "pred": "tahamdo",
+    "exact": false,
+    "letters_right": 6,
+    "len": 7
+   },
+   {
+    "n": 44,
+    "name": "Nociabi",
+    "pred": "nociabi",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 45,
+    "name": "Tastoxo",
+    "pred": "tastoxo",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 46,
+    "name": "Cucarpt",
+    "pred": "cucarpt",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 47,
+    "name": "Lauacon",
+    "pred": "lauacon",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 48,
+    "name": "Sochial",
+    "pred": "sochial",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 49,
+    "name": "Sigmorf",
+    "pred": "sigmorf",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 50,
+    "name": "Aydropt",
+    "pred": "audropt",
+    "exact": false,
+    "letters_right": 6,
+    "len": 7
+   },
+   {
+    "n": 51,
+    "name": "Tocarzi",
+    "pred": "tocarzi",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 52,
+    "name": "Nabaomi",
+    "pred": "nabaomi",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 53,
+    "name": "Zafasai",
+    "pred": "zafasai",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 54,
+    "name": "Yalpamb",
+    "pred": "yalpamb",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 55,
+    "name": "Torzoxi",
+    "pred": "torzoxi",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 56,
+    "name": "Abaiond",
+    "pred": "abriond",
+    "exact": false,
+    "letters_right": 6,
+    "len": 7
+   },
+   {
+    "n": 57,
+    "name": "Omagrap",
+    "pred": "omagrap",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 58,
+    "name": "Zildron",
+    "pred": "zildron",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 59,
+    "name": "Parziba",
+    "pred": "parziba",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 60,
+    "name": "Totocan",
+    "pred": "totocan",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 61,
+    "name": "Chirspa",
+    "pred": "chirzpa",
+    "exact": false,
+    "letters_right": 6,
+    "len": 7
+   },
+   {
+    "n": 62,
+    "name": "Toantom",
+    "pred": "toantom",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 63,
+    "name": "Vixpalg",
+    "pred": "uixpalg",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 64,
+    "name": "Ozidaia",
+    "pred": "ozidaia",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 65,
+    "name": "Paraoan",
+    "pred": "paraoan",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 66,
+    "name": "Calzirg",
+    "pred": "calzirg",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 67,
+    "name": "Ronoamb",
+    "pred": "ronoomb",
+    "exact": false,
+    "letters_right": 6,
+    "len": 7
+   },
+   {
+    "n": 68,
+    "name": "Onizimp",
+    "pred": "onizimp",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 69,
+    "name": "Zaxanin",
+    "pred": "zaxanin",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 70,
+    "name": "Orcamir",
+    "pred": "orcanir",
+    "exact": false,
+    "letters_right": 6,
+    "len": 7
+   },
+   {
+    "n": 71,
+    "name": "Chialps",
+    "pred": "chialps",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 72,
+    "name": "Soageel",
+    "pred": "soageel",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 73,
+    "name": "Mirzind",
+    "pred": "mirzind",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 74,
+    "name": "Obvaors",
+    "pred": "obuaors",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 75,
+    "name": "Ranglam",
+    "pred": "ranglam",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 76,
+    "name": "Pophand",
+    "pred": "pophand",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 77,
+    "name": "Nigrana",
+    "pred": "nigrana",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 78,
+    "name": "Bazchim",
+    "pred": "lazchim",
+    "exact": false,
+    "letters_right": 6,
+    "len": 7
+   },
+   {
+    "n": 79,
+    "name": "Saziami",
+    "pred": "saziami",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 80,
+    "name": "Mathula",
+    "pred": "mathula",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 81,
+    "name": "Orpanib",
+    "pred": "orpanib",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 82,
+    "name": "Labnixp",
+    "pred": "labnixp",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 83,
+    "name": "Focisni",
+    "pred": "pocisni",
+    "exact": false,
+    "letters_right": 6,
+    "len": 7
+   },
+   {
+    "n": 84,
+    "name": "Oxlopar",
+    "pred": "oxlopar",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 85,
+    "name": "Vastrim",
+    "pred": "uastrim",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 86,
+    "name": "Odraxti",
+    "pred": "odraxti",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 87,
+    "name": "Gomziam",
+    "pred": "gomziam",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 88,
+    "name": "Taoagla",
+    "pred": "taaogba",
+    "exact": false,
+    "letters_right": 4,
+    "len": 7
+   },
+   {
+    "n": 89,
+    "name": "Gemnimb",
+    "pred": "gemnimb",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 90,
+    "name": "Advorpt",
+    "pred": "aduorpt",
+    "exact": true,
+    "letters_right": 7,
+    "len": 7
+   },
+   {
+    "n": 91,
+    "name": "Dozinal",
+    "pred": "doxmael",
+    "exact": false,
+    "letters_right": 3,
+    "len": 7
+   }
+  ]
+ }
+}

@@ -1,0 +1,91 @@
+  1 Occodon   occodon      1.00 L20366  OCCODON  Occodon.
+  2 Pascomb   jspiaom      0.57 L20496  ASPI4ON.  JspiaoM.
+  3 Valgars   ualgars      1.00 L20382  VALGARS  Falgars.
+  4 Doagnis   doagnis      1.00 L20388  DOAGNIS  t>oggHis.
+  5 Pacasna   pacasna      1.00 L20394  PACASNA  fa  cafna,  dcrftand  this
+  6 Dialiva   dial         0.73 L20407  D..AL..VA  Dial'tva.
+  7 Samapha   samapha      1.00 L20413  S  A  MA  PH.  Samapha.
+  8 Virochi   uirochi      1.00 L20420  VIROCHI.  „.    ,^/-
+  9 Andispi   andispi      1.00 L20427  ANDISPl  Andispi.
+ 10 Thotanf   thotanf      1.00 L20432  THOTANF  thotanf.
+ 11 Axziarg   axziarg      1.00 L20437  AXZIARG  Axziarg.
+ 12 Pothnir   phnir        0.83 L20441  P .  .  H  N  I R.  ^"^^  ""■•
+ 13 Lazdixi   lazdixi      1.00 L20445  LAZDlXI  Lazdixi.
+ 14 Nocamal   nocamal      1.00 L20449  NOCAMAL  .  Nocimal.
+ 15 Tiarpax   tiarpax      1.00 L20454  TIARPAX  .    tiirpAx.
+ 16 Saxtomp   xtompsax     0.67 L20473  S   •  X  T  O  M  P  Sax  tomf.
+ 17 Vavaamp   uauaamp      1.00 L20477  VAVAAMP  ViVa.  amf,
+ 18 Zirzird   zirzirz      0.86 L20480  ZIR.ZIRD  ZirzirZ
+ 19 Obmacas   obmacas      1.00 L20486  OBMACAS  Ohmtcas.
+ 20 Genadol   nadol        0.83 L20492  gJ:NADOL  GenaJti,
+ 21 Aspiaon   aspi         0.73 L20496  ASPI4ON.  JspiaoM.
+ 22 Zamfres   zainfres     0.80 L20499  ZAINFRES  Ziinfres,
+ 23 Todnaon   todnaon      1.00 L20502  '  TODNAON  Todnadn,
+ 24 Pristac   pristagtru   0.71 L20506  P  R.  I  S  T  A  G  TrU  tac.
+ 25 Oddiorg   oddiorg      1.00 L20511  ODD  I  ORG  Oddiorg,
+ 26 Cralpir   cralpir      1.00 L20515  CRALPIR  Chi  fir.
+ 27 Doanzin   doanzin      1.00 L20520  DOANZIN  i)t*ftZin.
+ 28 Lexarph   lexarph      1.00 L20535  LEX ARPH
+ 29 Comanan   comanan      1.00 L20538  C  OMAN AN
+ 30 Tabitom   tabitom      1.00 L20541  T  A  B I  T  O  M
+ 31 Molpand   molpand      1.00 L20560  molpand
+ 32 Vsnarda   usnrda       0.92 L20562  V  SN.RDA
+ 33 Ponodol   ponodol      1.00 L20565  PONODOL
+ 34 Tapamal   tapamal      1.00 L20568  T  AP  AMAL
+ 35 Gedoons   gedoons      1.00 L20571  GEDOONS
+ 36 Ambriol   ambriol      1.00 L20573  AMBRI  OL
+ 37 Gecaond   gecaond      1.00 L20577  GEC AO  ND
+ 38 Laparin   laparin      1.00 L20582  LAPARIN
+ 39 Docepax   docepax      1.00 L20585  DOCEPAX
+ 40 Tedoand   tedoand      1.00 L20633  TEDOAND
+ 41 Viuipos   uiuips       0.92 L20659  V  I  V  I  P  O  S  Vivips,
+ 42 Ooanamb   namb         0.73 L20665  00. NAME  O  0  a  namb,
+ 43 Tahando   tahando      1.00 L21111  TAHANDO.  T*h4Hd0.  ,.
+ 44 Nociabi   nocisbi      0.86 L21123  N  b  C  1  A  B I  Nocisbi.
+ 45 Tastoxo   tasttxo      0.86 L21127  T  A  S  T  O  X  O  Tasttxo.
+ 46 Cucarpt   cucarpt      1.00 L21131  CVCARPT  Cm  carft.
+ 47 Lauacon   lauacon      1.00 L21135  LAVACON  Lava  con.
+ 48 Sochial   sochial      1.00 L21140  SOCHIAL
+ 49 Sigmorf   slgmorf      0.86 L21144  SlGMORF
+ 50 Aydropt   aydropt      1.00 L21147  aydropt
+ 51 Tocarzi   tocarzi      1.00 L21150  TOCARZI
+ 52 Nabaomi   nabaomi      1.00 L21152  NABAO  MI
+ 53 Zafasai   zafasai      1.00 L21154  ZAFASAI
+ 54 Yalpamb   yalpamb      1.00 L21156  YALPAMB
+ 55 Torzoxi   torzoxi      1.00 L21158  TORZOXI
+ 56 Abaiond   abaion       0.92 L21160  A  B  A  I O  N
+ 57 Omagrap   omagrap      1.00 L21162  OMAGRAP
+ 58 Zildron   zildron      1.00 L21165  ZILDRON
+ 59 Parziba   parzi        0.83 L21196  PARZI  •  A
+ 60 Totocan   totocan      1.00 L21201  TOTOCAN
+ 61 Chirspa   chirspa      1.00 L21207  CHIRSPA
+ 62 Toantom   toantom      1.00 L21213  TOANTOM
+ 63 Vixpalg   ulxpalg      0.86 L21221  VlXPALG
+ 64 Ozidaia   ozidaia      1.00 L21229  OZIDAIA
+ 65 Paraoan   paraoan      1.00 L21234  PARAOAN
+ 66 Calzirg   calzlrg      0.86 L21240  CALZlRG
+ 67 Ronoamb   ronoamb      1.00 L21249  RO  NO AMB
+ 68 Onizimp   onizimp      1.00 L21255  ONIZIMP
+ 69 Zaxanin   zaxanin      1.00 L21261  ZAXANIN
+ 70 Orcamir   orcamir      1.00 L21267  ORCAMIR.
+ 71 Chialps   chialps      1.00 L21272  CHIALP  S
+ 72 Soageel   soageel      1.00 L21280  SO AGEEL
+ 73 Mirzind   mirzind      1.00 L21286  MIRZIND
+ 74 Obvaors   obuaors      1.00 L21291  OBVAORS
+ 75 Ranglam   ranglam      1.00 L21301  ranglam
+ 76 Pophand   pophand      1.00 L21304  26    POP  HAND
+ 77 Nigrana   nigrina      0.86 L21316  ■      N I  O  R  A  N  A  Nigrina.
+ 78 Bazchim   bazchimb     0.93 L21320  B  A  Z  C  H  I  M  B««  chim.
+ 79 Saziami   saziamisaaia 0.74 L21323  .      S  A  Z  I  A  M  I  Saaia  mi.
+ 80 Mathula   mathula      1.00 L21327  MATHULA  '  MMthMla.
+ 81 Orpanib   orpanib      1.00 L21330  ORPANIB  OrfuMih.
+ 82 Labnixp   labnixp      1.00 L21334  LABNIXP  LahHimf,
+ 83 Focisni   focis        0.83 L21338  F  O  C  •  S  K  I  Focis  tit.
+ 84 Oxlopar   oxlofar      0.86 L21341  '   bXtdPAR  Oxlofar,
+ 85 Vastrim   uastrim      1.00 L21373  V  AS  TRIM  irastrtnt.
+ 86 Odraxti   odraxti      1.00 L21377  ODRAXTI  Odraxtt,
+ 87 Gomziam   gomziam      1.00 L21388  GOMZI.AM  (Somziam.
+ 88 Taoagla   taoagla      1.00 L21392  TAOAGLA  TaSMgU.
+ 89 Gemnimb   gemnimb      1.00 L21396  GEMNIMB  Gemnmh.
+ 90 Advorpt   aduorpt      1.00 L21400  ADVORPT  di  vorft.
+ 91 Dozinal   dozinal      1.00 L21404  '^J'.'none        DOZINAL  Vtzin^l.

@@ -1,0 +1,9 @@
+C1: 17 of 87 governors mismatch, 26 letters
+RO: 16 of 87 governors mismatch, 23 letters
+S1: 28 of 87 governors mismatch, 41 letters
+S2: 27 of 87 governors mismatch, 50 letters
+C2: 27 of 87 governors mismatch, 41 letters
+RR: 27 of 87 governors mismatch, 41 letters
+AR: 25 of 87 governors mismatch, 39 letters
+AD: 15 of 87 governors mismatch, 20 letters
+RT: 15 of 87 governors mismatch, 22 letters

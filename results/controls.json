@@ -1,0 +1,134 @@
+{
+ "seed": 20261019,
+ "shuffled_grids": {
+  "real_exact_names": 71,
+  "real_letters": 586,
+  "null_exact_max": 0,
+  "null_exact_mean": 0.0,
+  "null_letters_mean": 50.614,
+  "null_letters_max": 74
+ },
+ "shuffled_names": {
+  "real_exact_names": 71,
+  "null_exact_max": 4,
+  "real_model_cost": 77.0,
+  "null_model_cost_min": 648.0,
+  "null_model_cost_mean": 671.4,
+  "n_cost_runs": 50
+ },
+ "random_corrections": {
+  "real": {
+   "broken": 12,
+   "fixed": 1,
+   "on_mismatch_paths": 6
+  },
+  "n_changed": 23,
+  "mismatch_path_cells": 112,
+  "broken": {
+   "null_mean": 12.6968,
+   "p_low": 0.4500549945005499,
+   "p_high": 0.7327267273272673
+  },
+  "fixed": {
+   "null_mean": 0.0125,
+   "p_low": 0.9999000099990001,
+   "p_high": 0.0124987501249875
+  },
+  "on_mismatch_paths": {
+   "null_mean": 4.1681,
+   "p_low": 0.8052194780521947,
+   "p_high": 0.26847315268473154
+  }
+ },
+ "recovery_weights": {
+  "default_1584": null,
+  "names_trusting": {
+   "ms84": 1,
+   "ms87": 0,
+   "s1": 0,
+   "gov_letter": 3,
+   "gov_name": 3,
+   "spoken": 2,
+   "inv": 0,
+   "cipher": 0
+  },
+  "balanced": {
+   "ms84": 2,
+   "ms87": 0,
+   "s1": 0,
+   "gov_letter": 1,
+   "gov_name": 1,
+   "spoken": 2,
+   "inv": 0,
+   "cipher": 0
+  }
+ },
+ "recovery": {
+  "default_1584": {
+   "table_err": {
+    "recovered": 0,
+    "n": 1777,
+    "rate": 0.0
+   },
+   "name_err": {
+    "recovered": 1752,
+    "n": 1753,
+    "rate": 0.999
+   },
+   "table_err_spoken": {
+    "recovered": 6,
+    "n": 223,
+    "rate": 0.027
+   },
+   "name_err_spoken": {
+    "recovered": 247,
+    "n": 247,
+    "rate": 1.0
+   }
+  },
+  "names_trusting": {
+   "table_err": {
+    "recovered": 1777,
+    "n": 1777,
+    "rate": 1.0
+   },
+   "name_err": {
+    "recovered": 0,
+    "n": 1753,
+    "rate": 0.0
+   },
+   "table_err_spoken": {
+    "recovered": 223,
+    "n": 223,
+    "rate": 1.0
+   },
+   "name_err_spoken": {
+    "recovered": 0,
+    "n": 247,
+    "rate": 0.0
+   }
+  },
+  "balanced": {
+   "table_err": {
+    "recovered": 0,
+    "n": 1777,
+    "rate": 0.0
+   },
+   "name_err": {
+    "recovered": 1753,
+    "n": 1753,
+    "rate": 1.0
+   },
+   "table_err_spoken": {
+    "recovered": 223,
+    "n": 223,
+    "rate": 1.0
+   },
+   "name_err_spoken": {
+    "recovered": 247,
+    "n": 247,
+    "rate": 1.0
+   }
+  }
+ }
+}

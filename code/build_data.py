@@ -154,9 +154,9 @@ def main():
         "witnesses": WITNESSES,
         "coords": "table.row.col; row 0-12 (row 6 = linea spiritus sancti), col 0-11",
         "letter_identity": "case-folded, u = v",
-        "licence": "Private research data. Readings come from third-party transcriptions "
-        "(Vovina Archives CC BY-NC-SA 4.0; Rinasce Piu Gloriosa 2025; AZOTH 1993). "
-        "Do not publish without checking terms.",
+        "licence": "Rebuilt locally from the sources; not redistributed. Readings come "
+        "from third-party transcriptions (Vovina Archives CC BY-NC-SA 4.0; Rinasce Piu "
+        "Gloriosa 2025; AZOTH 1993), each under its own terms.",
     }
     json.dump({"meta": meta, "cells": cells}, open(D / "cells.json", "w"), indent=0)
     json.dump(

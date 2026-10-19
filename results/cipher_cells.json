@@ -1,0 +1,2619 @@
+{
+ "note": "Published copy: message letters left out (see the README, Licensing).",
+ "uses": [
+  {
+   "k": 0,
+   "num": 49,
+   "cell": "ORO.2.0",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 1,
+   "num": 228,
+   "cell": "ORO.9.11",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 2,
+   "num": 410,
+   "cell": "MOR.4.0",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 3,
+   "num": 505,
+   "cell": "MOR.8.0",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 4,
+   "num": 603,
+   "cell": "MOR.12.2",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 5,
+   "num": 149,
+   "cell": "ORO.6.3",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 6,
+   "num": 173,
+   "cell": "ORO.7.3",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 7,
+   "num": 197,
+   "cell": "ORO.8.3",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 8,
+   "num": 175,
+   "cell": "ORO.7.5",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 9,
+   "num": 177,
+   "cell": "ORO.7.7",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 10,
+   "num": 273,
+   "cell": "ORO.11.7",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 11,
+   "num": 416,
+   "cell": "MOR.4.7",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 12,
+   "num": 226,
+   "cell": "ORO.9.8",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 13,
+   "num": 441,
+   "cell": "MOR.5.8",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 14,
+   "num": 251,
+   "cell": "ORO.10.9",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 15,
+   "num": 586,
+   "cell": "MOR.11.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 16,
+   "num": 83,
+   "cell": "ORO.3.10",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 17,
+   "num": 132,
+   "cell": "ORO.5.10",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 18,
+   "num": 253,
+   "cell": "ORO.10.11",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 19,
+   "num": 277,
+   "cell": "MPH.11.0",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 20,
+   "num": 39,
+   "cell": "MPH.1.2",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 21,
+   "num": 304,
+   "cell": "MPH.12.2",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 22,
+   "num": 401,
+   "cell": "OIP.3.3",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 23,
+   "num": 496,
+   "cell": "OIP.7.3",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 24,
+   "num": 592,
+   "cell": "OIP.11.3",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "S1",
+    "S2"
+   ],
+   "disagree": [
+    "C2"
+   ]
+  },
+  {
+   "k": 25,
+   "num": 90,
+   "cell": "MPH.3.5",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 26,
+   "num": 355,
+   "cell": "OIP.1.5",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 27,
+   "num": 618,
+   "cell": "OIP.12.5",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 28,
+   "num": 20,
+   "cell": "MPH.0.7",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 29,
+   "num": 501,
+   "cell": "OIP.7.8",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 30,
+   "num": 597,
+   "cell": "OIP.11.8",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S2"
+   ],
+   "disagree": [
+    "S1"
+   ]
+  },
+  {
+   "k": 31,
+   "num": 466,
+   "cell": "MOR.6.8",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 32,
+   "num": 597,
+   "cell": "OIP.11.8",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S2"
+   ],
+   "disagree": [
+    "S1"
+   ]
+  },
+  {
+   "k": 33,
+   "num": 502,
+   "cell": "OIP.7.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 34,
+   "num": 550,
+   "cell": "OIP.9.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 35,
+   "num": 119,
+   "cell": "MPH.4.10",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 36,
+   "num": 264,
+   "cell": "MPH.10.10",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 37,
+   "num": 312,
+   "cell": "MPH.12.10",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 38,
+   "num": 24,
+   "cell": "MPH.0.11",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 39,
+   "num": 338,
+   "cell": "MOR.1.0",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 40,
+   "num": 411,
+   "cell": "MOR.4.1",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 41,
+   "num": 603,
+   "cell": "MOR.12.2",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 42,
+   "num": 604,
+   "cell": "MOR.12.3",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 43,
+   "num": 150,
+   "cell": "ORO.6.4",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 44,
+   "num": 414,
+   "cell": "MOR.4.4",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 45,
+   "num": 395,
+   "cell": "MOR.3.9",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 46,
+   "num": 467,
+   "cell": "MOR.6.10",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 47,
+   "num": 519,
+   "cell": "OIP.8.2",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 48,
+   "num": 53,
+   "cell": "ORO.2.4",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 49,
+   "num": 59,
+   "cell": "ORO.2.10",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 50,
+   "num": 68,
+   "cell": "MPH.2.7",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 51,
+   "num": 418,
+   "cell": "MOR.4.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 52,
+   "num": 444,
+   "cell": "MOR.5.11",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 53,
+   "num": 355,
+   "cell": "OIP.1.5",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 54,
+   "num": 497,
+   "cell": "OIP.7.4",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 55,
+   "num": 20,
+   "cell": "MPH.0.7",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 56,
+   "num": 116,
+   "cell": "MPH.4.7",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 57,
+   "num": 287,
+   "cell": "MPH.11.9",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 58,
+   "num": 609,
+   "cell": "MOR.12.8",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 59,
+   "num": 610,
+   "cell": "MOR.12.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 60,
+   "num": 480,
+   "cell": "OIP.6.11",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 61,
+   "num": 182,
+   "cell": "MPH.7.0",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 62,
+   "num": 98,
+   "cell": "ORO.4.1",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 63,
+   "num": 401,
+   "cell": "OIP.3.3",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 64,
+   "num": 495,
+   "cell": "OIP.7.2",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 66,
+   "num": 306,
+   "cell": "MPH.12.4",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 67,
+   "num": 473,
+   "cell": "OIP.6.4",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 68,
+   "num": 517,
+   "cell": "OIP.8.0",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 69,
+   "num": 363,
+   "cell": "MOR.2.1",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 70,
+   "num": 247,
+   "cell": "ORO.10.6",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 71,
+   "num": 271,
+   "cell": "ORO.11.5",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 72,
+   "num": 367,
+   "cell": "MOR.2.5",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 73,
+   "num": 89,
+   "cell": "MPH.3.4",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 74,
+   "num": 65,
+   "cell": "MPH.2.4",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 75,
+   "num": 11,
+   "cell": "ORO.0.10",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 76,
+   "num": 46,
+   "cell": "MPH.1.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 77,
+   "num": 267,
+   "cell": "ORO.11.1",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 78,
+   "num": 228,
+   "cell": "ORO.9.10",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 80,
+   "num": 97,
+   "cell": "ORO.4.0",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 81,
+   "num": 269,
+   "cell": "ORO.11.3",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 82,
+   "num": 244,
+   "cell": "ORO.10.2",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 83,
+   "num": 400,
+   "cell": "OIP.3.2",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 84,
+   "num": 23,
+   "cell": "MPH.0.10",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 85,
+   "num": 75,
+   "cell": "ORO.3.2",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 86,
+   "num": 178,
+   "cell": "ORO.7.8",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 87,
+   "num": 586,
+   "cell": "MOR.11.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 88,
+   "num": 545,
+   "cell": "OIP.9.4",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 89,
+   "num": 18,
+   "cell": "MPH.0.5",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 90,
+   "num": 43,
+   "cell": "MPH.1.6",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 91,
+   "num": 25,
+   "cell": "ORO.1.0",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 92,
+   "num": 17,
+   "cell": "MPH.0.4",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 93,
+   "num": 165,
+   "cell": "MPH.6.7",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 94,
+   "num": 93,
+   "cell": "MPH.3.8",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 95,
+   "num": 52,
+   "cell": "ORO.2.3",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 96,
+   "num": 511,
+   "cell": "MOR.8.6",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 97,
+   "num": 175,
+   "cell": "ORO.7.5",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 99,
+   "num": 46,
+   "cell": "MPH.1.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 100,
+   "num": 609,
+   "cell": "MOR.12.8",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 101,
+   "num": 228,
+   "cell": "ORO.9.10",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 102,
+   "num": 179,
+   "cell": "ORO.7.9",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 103,
+   "num": 141,
+   "cell": "MPH.5.7",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 104,
+   "num": 22,
+   "cell": "MPH.0.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 105,
+   "num": 403,
+   "cell": "OIP.3.5",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 106,
+   "num": 370,
+   "cell": "MOR.2.8",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 107,
+   "num": 97,
+   "cell": "ORO.4.0",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 108,
+   "num": 243,
+   "cell": "ORO.10.1",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 109,
+   "num": 80,
+   "cell": "ORO.3.7",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 110,
+   "num": 552,
+   "cell": "OIP.9.11",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 111,
+   "num": 295,
+   "cell": "ORO.12.5",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 112,
+   "num": 46,
+   "cell": "MPH.1.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 113,
+   "num": 163,
+   "cell": "MPH.6.5",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 114,
+   "num": 418,
+   "cell": "MOR.4.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 115,
+   "num": 311,
+   "cell": "MPH.12.9",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 116,
+   "num": 222,
+   "cell": "ORO.9.5",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 117,
+   "num": 150,
+   "cell": "ORO.6.4",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 118,
+   "num": 253,
+   "cell": "ORO.10.11",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 119,
+   "num": 395,
+   "cell": "MOR.3.9",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 120,
+   "num": 538,
+   "cell": "MOR.9.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 121,
+   "num": 156,
+   "cell": "ORO.6.10",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 122,
+   "num": 46,
+   "cell": "MPH.1.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 123,
+   "num": 55,
+   "cell": "ORO.2.6",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 124,
+   "num": 7,
+   "cell": "ORO.0.6",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 125,
+   "num": 123,
+   "cell": "ORO.5.1",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 126,
+   "num": 433,
+   "cell": "MOR.5.0",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 127,
+   "num": 151,
+   "cell": "ORO.6.6",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 128,
+   "num": 197,
+   "cell": "ORO.8.3",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 129,
+   "num": 285,
+   "cell": "MPH.11.7",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 130,
+   "num": 335,
+   "cell": "OIP.0.9",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 131,
+   "num": 621,
+   "cell": "OIP.12.8",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 132,
+   "num": 544,
+   "cell": "OIP.9.3",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 133,
+   "num": 352,
+   "cell": "OIP.1.2",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 134,
+   "num": 295,
+   "cell": "ORO.12.5",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 135,
+   "num": 395,
+   "cell": "MOR.3.9",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 136,
+   "num": 254,
+   "cell": "MPH.10.0",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 137,
+   "num": 566,
+   "cell": "OIP.10.1",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 138,
+   "num": 423,
+   "cell": "OIP.4.2",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 139,
+   "num": 214,
+   "cell": "MPH.8.8",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 140,
+   "num": 261,
+   "cell": "MPH.10.7",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 141,
+   "num": 59,
+   "cell": "ORO.2.10",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 142,
+   "num": 494,
+   "cell": "OIP.7.1",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 143,
+   "num": 517,
+   "cell": "OIP.8.0",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 144,
+   "num": 116,
+   "cell": "MPH.4.7",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 145,
+   "num": 103,
+   "cell": "ORO.4.6",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 146,
+   "num": 405,
+   "cell": "OIP.3.7",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 147,
+   "num": 170,
+   "cell": "ORO.7.0",
+   "kind": "minus1",
+   "agree": [
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": [
+    "C1"
+   ]
+  },
+  {
+   "k": 148,
+   "num": 25,
+   "cell": "ORO.1.0",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 149,
+   "num": 606,
+   "cell": "MOR.12.5",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 150,
+   "num": 466,
+   "cell": "MOR.6.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 151,
+   "num": 490,
+   "cell": "MOR.7.9",
+   "kind": "exact",
+   "agree": [
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": [
+    "C1"
+   ]
+  },
+  {
+   "k": 153,
+   "num": 53,
+   "cell": "ORO.2.4",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 154,
+   "num": 32,
+   "cell": "ORO.1.7",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 155,
+   "num": 196,
+   "cell": "ORO.8.3",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 157,
+   "num": 512,
+   "cell": "MOR.8.7",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 158,
+   "num": 20,
+   "cell": "MPH.0.7",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 159,
+   "num": 338,
+   "cell": "MOR.1.0",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 160,
+   "num": 290,
+   "cell": "ORO.12.0",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 161,
+   "num": 244,
+   "cell": "ORO.10.2",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 162,
+   "num": 72,
+   "cell": "MPH.2.11",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 163,
+   "num": 340,
+   "cell": "MOR.1.2",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 164,
+   "num": 195,
+   "cell": "ORO.8.2",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 165,
+   "num": 314,
+   "cell": "MOR.0.0",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 166,
+   "num": 495,
+   "cell": "OIP.7.2",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 167,
+   "num": 284,
+   "cell": "MPH.11.6",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 168,
+   "num": 152,
+   "cell": "ORO.6.6",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 169,
+   "num": 418,
+   "cell": "MOR.4.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 170,
+   "num": 82,
+   "cell": "ORO.3.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 171,
+   "num": 320,
+   "cell": "MOR.0.6",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 172,
+   "num": 491,
+   "cell": "MOR.7.10",
+   "kind": "exact",
+   "agree": [
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": [
+    "C1"
+   ]
+  },
+  {
+   "k": 173,
+   "num": 390,
+   "cell": "MOR.3.4",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 174,
+   "num": 414,
+   "cell": "MOR.4.4",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 175,
+   "num": 366,
+   "cell": "MOR.2.4",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 176,
+   "num": 239,
+   "cell": "MPH.9.9",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 177,
+   "num": 182,
+   "cell": "MPH.7.0",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 179,
+   "num": 163,
+   "cell": "MPH.6.5",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 180,
+   "num": 175,
+   "cell": "ORO.7.5",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 181,
+   "num": 171,
+   "cell": "ORO.7.1",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 182,
+   "num": 73,
+   "cell": "ORO.3.0",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 183,
+   "num": 418,
+   "cell": "MOR.4.9",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 184,
+   "num": 214,
+   "cell": "MPH.8.8",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 185,
+   "num": 4,
+   "cell": "ORO.0.3",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 186,
+   "num": 98,
+   "cell": "ORO.4.1",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 187,
+   "num": 96,
+   "cell": "MPH.3.11",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 188,
+   "num": 188,
+   "cell": "MPH.7.6",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 189,
+   "num": 331,
+   "cell": "OIP.0.5",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 190,
+   "num": 136,
+   "cell": "MPH.5.2",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 191,
+   "num": 335,
+   "cell": "OIP.0.9",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 192,
+   "num": 408,
+   "cell": "OIP.3.10",
+   "kind": "minus1",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 193,
+   "num": 452,
+   "cell": "OIP.5.7",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 194,
+   "num": 424,
+   "cell": "OIP.4.3",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  },
+  {
+   "k": 195,
+   "num": 97,
+   "cell": "ORO.4.0",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": []
+  }
+ ],
+ "misses": [
+  {
+   "k": 65,
+   "num": 63,
+   "cell_n": "MPH.2.2",
+   "cell_n-1": "MPH.2.1"
+  },
+  {
+   "k": 79,
+   "num": 331,
+   "cell_n": "OIP.0.6",
+   "cell_n-1": "OIP.0.5"
+  },
+  {
+   "k": 98,
+   "num": 170,
+   "cell_n": "ORO.7.1",
+   "cell_n-1": "ORO.7.0"
+  },
+  {
+   "k": 152,
+   "num": 620,
+   "cell_n": "OIP.12.7",
+   "cell_n-1": "OIP.12.6"
+  },
+  {
+   "k": 156,
+   "num": 224,
+   "cell_n": "ORO.9.7",
+   "cell_n-1": "ORO.9.6"
+  },
+  {
+   "k": 178,
+   "num": 460,
+   "cell_n": "MOR.6.3",
+   "cell_n-1": "MOR.6.2"
+  }
+ ],
+ "disputed_uses": [
+  {
+   "k": 24,
+   "num": 592,
+   "cell": "OIP.11.3",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "S1",
+    "S2"
+   ],
+   "disagree": [
+    "C2"
+   ]
+  },
+  {
+   "k": 30,
+   "num": 597,
+   "cell": "OIP.11.8",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S2"
+   ],
+   "disagree": [
+    "S1"
+   ]
+  },
+  {
+   "k": 32,
+   "num": 597,
+   "cell": "OIP.11.8",
+   "kind": "exact",
+   "agree": [
+    "C1",
+    "C2",
+    "S2"
+   ],
+   "disagree": [
+    "S1"
+   ]
+  },
+  {
+   "k": 147,
+   "num": 170,
+   "cell": "ORO.7.0",
+   "kind": "minus1",
+   "agree": [
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": [
+    "C1"
+   ]
+  },
+  {
+   "k": 151,
+   "num": 490,
+   "cell": "MOR.7.9",
+   "kind": "exact",
+   "agree": [
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": [
+    "C1"
+   ]
+  },
+  {
+   "k": 172,
+   "num": 491,
+   "cell": "MOR.7.10",
+   "kind": "exact",
+   "agree": [
+    "C2",
+    "S1",
+    "S2"
+   ],
+   "disagree": [
+    "C1"
+   ]
+  }
+ ],
+ "offsets": {
+  "S2": {
+   "n": 105,
+   "n-1 only": 85,
+   "n+1 only": 1,
+   "n-2/n+2 only": 2
+  },
+  "C1": {
+   "n": 103,
+   "n-1 only": 84,
+   "n+1 only": 3,
+   "n-2/n+2 only": 2
+  }
+ }
+}

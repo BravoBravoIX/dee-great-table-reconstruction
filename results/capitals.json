@@ -1,0 +1,118 @@
+{
+ "C1": {
+  "capitals": 98,
+  "capitals_at_path_start": 82,
+  "path_starts_on_table": 88,
+  "path_starts_capital": 82,
+  "capitals_not_at_start": [
+   "MOR.10.3",
+   "MOR.2.6",
+   "MOR.3.2",
+   "MOR.3.6",
+   "MOR.7.0",
+   "MOR.8.0",
+   "MPH.12.11",
+   "MPH.4.11",
+   "MPH.4.6",
+   "MPH.7.8",
+   "OIP.11.3",
+   "OIP.12.7",
+   "ORO.4.6",
+   "ORO.8.0",
+   "ORO.9.0",
+   "ORO.9.9"
+  ]
+ },
+ "S1": {
+  "capitals": 92,
+  "capitals_at_path_start": 84,
+  "path_starts_on_table": 88,
+  "path_starts_capital": 84,
+  "capitals_not_at_start": [
+   "MOR.8.0",
+   "MPH.12.11",
+   "MPH.4.11",
+   "MPH.7.8",
+   "OIP.12.7",
+   "OIP.7.5",
+   "ORO.8.0",
+   "ORO.9.0"
+  ]
+ },
+ "S2": {
+  "capitals": 94,
+  "capitals_at_path_start": 86,
+  "path_starts_on_table": 88,
+  "path_starts_capital": 86,
+  "capitals_not_at_start": [
+   "MOR.8.0",
+   "MPH.12.11",
+   "MPH.4.11",
+   "MPH.7.8",
+   "OIP.12.7",
+   "OIP.7.5",
+   "ORO.8.0",
+   "ORO.9.0"
+  ]
+ },
+ "C2": {
+  "capitals": 10,
+  "capitals_at_path_start": 7,
+  "path_starts_on_table": 88,
+  "path_starts_capital": 7,
+  "capitals_not_at_start": [
+   "MPH.12.11",
+   "OIP.7.5",
+   "ORO.10.6"
+  ]
+ },
+ "RO": {
+  "capitals": 96,
+  "capitals_at_path_start": 87,
+  "path_starts_on_table": 88,
+  "path_starts_capital": 87,
+  "capitals_not_at_start": [
+   "MOR.7.0",
+   "MOR.8.0",
+   "MPH.12.11",
+   "MPH.4.11",
+   "MPH.7.8",
+   "OIP.12.7",
+   "OIP.7.5",
+   "ORO.8.0",
+   "ORO.9.0"
+  ]
+ },
+ "RR": {
+  "capitals": 95,
+  "capitals_at_path_start": 86,
+  "path_starts_on_table": 88,
+  "path_starts_capital": 86,
+  "capitals_not_at_start": [
+   "MOR.7.0",
+   "MOR.8.0",
+   "MPH.12.11",
+   "MPH.4.11",
+   "MPH.7.8",
+   "OIP.12.7",
+   "OIP.7.5",
+   "ORO.8.0",
+   "ORO.9.0"
+  ]
+ },
+ "paraoan_sigil_cells": {
+  "cells": [
+   "MPH.7.8",
+   "MPH.8.7",
+   "MPH.9.7",
+   "MPH.9.6",
+   "MPH.10.6",
+   "MPH.10.5",
+   "MPH.9.5"
+  ],
+  "reading": {
+   "C1": "Laxdixi",
+   "S2": "Laxdizi"
+  }
+ }
+}

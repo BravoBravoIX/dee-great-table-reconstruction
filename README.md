@@ -13,6 +13,8 @@ proof, it says "the evidence weighs toward".
 
 October 2026. CPU only; the whole analysis reruns in a few minutes.
 
+**Archived on Zenodo** with its paper, code, data and results: [doi:10.5281/zenodo.23470963](https://doi.org/10.5281/zenodo.23470963) (this DOI always opens the latest version; see How to cite at the end).
+
 **The paper:** [`paper/great-table.pdf`](paper/great-table.pdf) (working paper, 5 pages: abstract,
 method, results, discussion and references; built from `paper/great-table.typ` by
 `paper/build.sh`). The README below covers the same ground in more detail.

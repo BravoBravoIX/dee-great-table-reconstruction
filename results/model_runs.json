@@ -2,8 +2,8 @@
  "run": {
   "python": "3.12.3",
   "seed": 20261019,
-  "commit": "d2efe78ac5de80aded6b313abbf8c0d0ea2368d3",
-  "elapsed_s": 28.2
+  "commit": "f1cfa2cadfbe8c456d2d90549734fdc1376eac8d",
+  "elapsed_s": 28.8
  },
  "interesting_cells": [
   "MOR.10.4",

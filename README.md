@@ -1,5 +1,7 @@
 # The Enochian Great Table, 1584 against 1587: a reconstruction with controls
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23470963.svg)](https://doi.org/10.5281/zenodo.23470963)
+
 A study of how John Dee's and Edward Kelley's "Great Table" was made, copied and
 changed. It weighs every surviving witness to each letter of the table, tests what
 each kind of evidence can and cannot decide, and checks every result against
@@ -359,3 +361,7 @@ sweep, held-out names), `code/controls.py` (controls and the known-answer test),
 - Klein (2020); Stenwick (2013); Wilson (2012); Leitch (2014); DuQuette (2008); Denning
   & Phillips, *Mysteria Magica*; Turner, *Elizabethan Magic* (1989); G. James,
   *Enochian Evocation* (1984); Crowley, *Liber Chanokh*.
+
+## How to cite
+
+Burford, B. (2026). A computational reconstruction of John Dee's Great Table (1584 and 1587). Zenodo. https://doi.org/10.5281/zenodo.23470963 (this DOI always points to the latest version; each release has its own version DOI on Zenodo).

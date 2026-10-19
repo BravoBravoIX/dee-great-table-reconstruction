@@ -1,0 +1,11 @@
+{
+  "_note": "Eye check of the Vovina Archives images (CC BY-NC-SA 4.0) where the glyph reader disagreed with the seed or was unsure, 19 Oct 2026. Keys: TABLE/variant -> 'row,col' -> reading as printed. 'A/B' = cell printed with two letters (as Vovina prints it); '' = cell left empty in the image.",
+  "ORO/cotton": {"2,8": "Y"},
+  "ORO/3191": {"0,7": "y"},
+  "ORO/3191-recensa": {"0,7": "y", "10,5": "T/t", "10,6": "t/T"},
+  "ORO/cotton-recensa": {"0,7": "y", "2,8": "y"},
+  "OIP/cotton": {"0,11": "", "1,10": "", "1,11": ""},
+  "OIP/3191": {"9,2": "l/b", "2,6": "v"},
+  "OIP/3191-recensa": {"2,6": "V"},
+  "MPH/3191-recensa": {"5,4": "x/p"}
+}

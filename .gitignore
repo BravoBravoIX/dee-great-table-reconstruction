@@ -1,0 +1,7 @@
+data/private/
+data/cells.json
+data/governors.json
+data/blackcross.json
+data/spoken_cells.json
+__pycache__/
+sources/downloads/

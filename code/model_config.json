@@ -1,0 +1,19 @@
+{
+  "_note": "Weights declared before any model run (19 Oct 2026). Default = our prior judgement; the sweep grid is where the results are tested for robustness. Seeds fixed.",
+  "default": {
+    "1584": {"ms84": 3, "ms87": 0.5, "s1": 0.5, "gov_letter": 1, "gov_name": 1, "spoken": 2, "inv": 0.5, "cipher": 0},
+    "1587": {"ms84": 0.5, "ms87": 2, "s1": 1, "gov_letter": 0.5, "gov_name": 0.5, "spoken": 0.5, "inv": 0.5, "cipher": 2}
+  },
+  "sweep_1584": {
+    "ms84": [1, 2, 3, 5],
+    "ms87": [0, 0.5, 1],
+    "s1": [0.5],
+    "gov_letter": [0.5, 1, 2, 3],
+    "gov_name": [0, 1, 3],
+    "spoken": [1, 2, 4],
+    "inv": [0, 0.5, 1],
+    "cipher": [0]
+  },
+  "seed": 20261019,
+  "controls": {"n_shuffled_grids": 1000, "n_random_corrections": 10000, "n_name_shuffles": 200, "n_recovery_trials": 200}
+}

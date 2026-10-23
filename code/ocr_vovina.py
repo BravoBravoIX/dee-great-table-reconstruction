@@ -8,8 +8,8 @@ by nearest neighbour against the four Cotton App. XLVI (pt 1) images, labelled w
 a seed transcription of the original table (Rinasce Piu Gloriosa 2025, figure 3,
 read from the PDF). Leave-one-out on the labelled cells shows where the seed and
 the image disagree. Every cell where the reader disagrees with the seed or is
-unsure is listed for a check by eye; the eye check is recorded in
-data/vovina_eyecheck.json and applied by build_cells.py.
+unsure is listed for a check against the image; that check, made by Claude, is
+recorded in data/vovina_eyecheck.json and applied by build_data.py.
 
 Usage: ocr_vovina.py IMAGE_DIR SEED_JSON OUT_JSON
 """

@@ -1,5 +1,5 @@
 """List the reader's disagreements with the seed (and unsure cells) per image,
-and optionally build a contact sheet of those cells for a check by eye.
+and optionally build a contact sheet of those cells for a check against the image.
 Usage: ocr_review.py OCR_JSON [IMAGE_DIR SHEET_DIR]
 """
 

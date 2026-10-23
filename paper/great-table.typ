@@ -17,7 +17,7 @@
   #v(0.2em)
   #text(size: 9pt)[ORCID #link("https://orcid.org/0009-0003-6599-8297")[0009-0003-6599-8297] · Independent researcher, Australia]
   #v(0.2em)
-  #text(size: 9pt)[Working paper, version 1.1, 19 October 2026 · not peer reviewed]
+  #text(size: 9pt)[Working paper, version 1.1.1, 21 October 2026 (version 1.1, 19 October 2026) · not peer reviewed]
   #v(0.2em)
   #text(size: 9pt)[Code, data and results: #link("https://github.com/BravoBravoIX/dee-great-table-reconstruction")[github.com/BravoBravoIX/dee-great-table-reconstruction], #link("https://doi.org/10.5281/zenodo.23470963")[doi:10.5281/zenodo.23470963]]
 ]
@@ -56,7 +56,7 @@ Each cell has nine witnesses (Table 1). No third-party transcription or image is
     columns: (auto, 1fr, auto, 1fr),
     align: left,
     table.header([*Id*], [*Witness*], [*Date*], [*Read from*]),
-    [C1], [Cotton App. XLVI pt 1 (the 1584 diary)], [1584], [Vovina Archives cell renderings, by a glyph reader plus an eye check],
+    [C1], [Cotton App. XLVI pt 1 (the 1584 diary)], [1584], [Vovina Archives cell renderings, by a glyph reader (our code) plus a check by Claude],
     [S1], [Sloane 3191 "tabula originalis" (Dee's later copy)], [after 1587], [same],
     [S2], [Sloane 3191 "tabula recensa"], [1587], [same],
     [C2], [Cotton App. XLVI pt 2, recensa], [1587], [same],
@@ -169,9 +169,13 @@ With only a table letter and a name letter, the "reconstruction" returns the pri
 
 Code (MIT) and our data and results (CC BY-NC-SA 4.0, because the manuscript readings rest in part on the Vovina Archives renderings, which carry that licence) are at #link("https://github.com/BravoBravoIX/dee-great-table-reconstruction")[github.com/BravoBravoIX/dee-great-table-reconstruction] and archived at #link("https://doi.org/10.5281/zenodo.23470963")[doi:10.5281/zenodo.23470963]. Third-party texts and images are not redistributed; the fetch script downloads them and checks their SHA-256 sums, and the pipeline rebuilds every data file and result byte for byte except the run record. This paper is released under CC BY-NC-SA 4.0.
 
+= How AI was used
+
+The four manuscript witnesses were read from the Vovina Archives' typeset renderings by our own glyph reader (nearest-neighbour code); the other witnesses come from the 2025 paper's text layer and AZOTH's source code. Claude checked the cells where the glyph reader disagreed with its seed or was unsure against the renderings; its 14 readings are recorded as data. An AI coding assistant (Claude Code) was used. Every step reruns without any AI service.
+
 = Acknowledgements
 
-This study stands on the work of AZOTH, Teresa Burns and J. Alan Moore, Frater Rinasce Più Gloriosa and the Vovina Archives, and on the editions of Casaubon and Klein. The analysis code was written with the help of an AI coding assistant (Claude, Anthropic); the author checked the results and is responsible for any errors.
+This study stands on the work of AZOTH, Teresa Burns and J. Alan Moore, Frater Rinasce Più Gloriosa and the Vovina Archives, and on the editions of Casaubon and Klein. The author is responsible for any errors.
 
 = References
 

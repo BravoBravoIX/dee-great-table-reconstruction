@@ -15,7 +15,7 @@ October 2026. CPU only; the whole analysis reruns in a few minutes.
 
 **Archived on Zenodo** with its paper, code, data and results: [doi:10.5281/zenodo.23470963](https://doi.org/10.5281/zenodo.23470963) (this DOI always opens the latest version; see How to cite at the end).
 
-**The paper:** [`paper/great-table.pdf`](paper/great-table.pdf) (working paper, 5 pages: abstract,
+**The paper:** [`paper/great-table.pdf`](paper/great-table.pdf) (working paper, 6 pages: abstract,
 method, results, discussion and references; built from `paper/great-table.typ` by
 `paper/build.sh`). The README below covers the same ground in more detail.
 
@@ -65,7 +65,7 @@ their owners publish them, and the code rebuilds the data from them.
 
 | Id | Witness | Date | Read from |
 |---|---|---|---|
-| C1 | Cotton App. XLVI pt 1 (the 1584 diary) | 1584 | Vovina Archives cell renderings, by a glyph reader plus an eye check |
+| C1 | Cotton App. XLVI pt 1 (the 1584 diary) | 1584 | Vovina Archives cell renderings, by a glyph reader (our code) plus a check by Claude |
 | S1 | Sloane 3191 "tabula originalis" (Dee's later copy) | after 1587 | same |
 | S2 | Sloane 3191 "tabula recensa" | 1587 | same |
 | C2 | Cotton App. XLVI pt 2, recensa | 1587 | same |
@@ -101,6 +101,12 @@ letters and the shifted row, so it is a copy made after the reform.
 
 Cells are written `TABLE row.col`, rows 0–12 (row 6 is the middle row), columns 0–11.
 Letters are compared case-folded with u = v.
+
+**How AI was used.** The four manuscript witnesses were read from the Vovina Archives' typeset
+renderings by our own glyph reader (nearest-neighbour code, `code/ocr_vovina.py`); the other
+witnesses come from the 2025 paper's text layer and AZOTH's source code. Claude checked the cells
+where the glyph reader disagreed with its seed or was unsure against the renderings; its 14
+readings are recorded in `data/vovina_eyecheck.json`. An AI coding assistant (Claude Code) was used. Every step reruns without any AI service.
 
 ## 3. Method
 
@@ -327,8 +333,8 @@ sweep, held-out names), `code/controls.py` (controls and the known-answer test),
   (https://creativecommons.org/licenses/by-nc-sa/4.0/). They are our own work, but the
   manuscript readings rest in part on the Vovina Archives renderings, which are
   CC BY-NC-SA 4.0, so we keep the same terms for everything derived from them.
-  - `data/vovina_eyecheck.json` is our eye check of cells in the Vovina Archives
-    renderings ("Vovina archives" by vovina, CC BY-NC-SA 4.0,
+  - `data/vovina_eyecheck.json` is our check of cells in the Vovina Archives
+    renderings, made by Claude ("Vovina archives" by vovina, CC BY-NC-SA 4.0,
     https://vovina-archives.statichost.eu/docs/license/), under the same licence.
   - `data/name_sources.json` is our notes on each governor's name, citing Casaubon
     (1659), AZOTH (1993), Turner, James, Crowley and the 2025 paper.
